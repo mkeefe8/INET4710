@@ -1,0 +1,278 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;\f2\fnil\fcharset0 Georgia;
+\f3\fswiss\fcharset0 ArialNarrow;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue233;\red0\green0\blue0;\red255\green255\blue255;
+\red26\green26\blue26;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c93333;\cssrgb\c0\c0\c0\c84314;\cssrgb\c100000\c100000\c100000;
+\cssrgb\c13333\c13333\c13333;}
+\margl1440\margr1440\vieww14400\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+\pard\pardeftab720\sl280\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://towardsdatascience.com/transfer-learning-using-the-fastai-library-d686b238213e"}}{\fldrslt 
+\f1 \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 https://towardsdatascience.com/transfer-learning-using-the-fastai-library-d686b238213e}}
+\f1 \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 \
+\
+\
+\pard\pardeftab720\sl480\partightenfactor0
+
+\f2\fs42 \cf3 \cb4 \ulnone So until now, we have only been training the last classification layers, but what if we want to optimize earlier layers too. In transfer learning, tweaking initial layers should be done with caution, and the learning rate should be kept pretty low. FastAI library provides a function to see what will be the ideal learning rate to train upon, so let\'92s plot it. The lr_find function runs the model for a subset of data at multiple learning rate to determine which learning rate would be best.\
+
+\f0\b\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \ul \ulc0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+\
+\
+Neural Networks\
+\
+
+\b0 \ulnone Learning occurs by changing the weights in  neural networks by changing the weights connecting the neurons\
+\
+External stimulus - is the training data\
+\
+View errors made by computational function (i.e, for classification) in a neural network as unpleasant feedback in an organism, leading to an adjustment of synoptic strengths. Weights are adjusted in response to prediction error.\
+\
+CNNS for image recognition inspired by Hubel and Wiesle\'92s experiments in 1959 on the organization of the neurons in the cat\'92s visual cortex. Precursor to the CNN was the neocognitron, which was directly based on these results.\
+\
+
+\b Feed-forward network means: 
+\b0 hidden layers\
+\
+
+\b Perceptron: 
+\b0 single-layer network, inputs mapped to an output by using a generalized variation of a linear function. (It has an input layer and computational layer, but input layer is not included in the count of the number of layers in a neural n network)\
+\
+
+\b Activation functions (e.g, sign function)\
+
+\b0 different choices of activation functions can be used to simulate different types of models used in machine learning, like least squares regression with numeric targets, support vector machine, or logistic regression classifier.\
+\
+Most basic machine learning models can be easily represented as simple neural network architectures\
+\
+\
+extremely imbalanced dataset: incorporate additional bias variable in the input layer\
+\
+\
+alpha parameter: regulates the learning rate of the neural network\
+\
+Perceptron algorithm repeatedly cycles through all the training examples in random order and iteratively adjusts the weights until convergence is reached\
+A single training data point may be cycled through many times - each such cycle is referred to as a 
+\b epoch\
+\
+
+\b0 Basic perceptron algorithm can be considered a stochastic gradient-descent method, which implicitly minimizes the squared error of prediction  by performing gradient-descent updates with respect to randomly chosen training points.  Assumption is that the neural network cycles through the points in random order during training and changes the weights with the goal of reducing the prediction \
+\
+
+\b Mini-batch stochastic gradient descent: 
+\b0 the. Aforementioned updates are implemented over a randomly chosen subset of training points\
+\
+Perceptrons limited to linear data - not guaranteed to converge in instances where the data are not linearly separable\
+\
+Neural networks are defined by gradient-based optimization, almost all continuous optimization-based learning methods (such as neural networks) with discrete outputs (such as class labels) use some type of smoothed surrogate loss function. Smoothed surrogate loss function: modified loss function to enable gradient computation of a non-linear differentiable function.\
+\
+Direct sensitivity of the loss to the magnitude of the weight vector can worsen the class separation; it is possible for the updates to worsen the number of misclassifications significantly while improving the loss - an example of how surrogate loss functions might not always reach their goal\
+	1. Pocket algorithm - keep tally of misclassifications, and keep the best one in the \'91pocket\'92\
+	2. Incorporate notion of margin in the loss function - which creates an identical algorithm to the linear support vector machine. So linear SVM is also referred to as the \'91
+\b perceptron of optimal stability\'92\
+\
+Activation functions:\
+
+\b0 Sign function: for binary class label prediction\
+	but non-dfiferentiuab slitty prevents its use for creating the loss function at training time.\
+Identity function: when target variable to be predicted real (resulting algorithm same as least squares 	regression)\
+Sigmoid function: predict probability of a binary class\
+	also helpful for creating loss functions derived from maximum probabilities\
+Hyperbolic tangents: related to sigmoid function - horizontally re-scaled and vertically translated\
+	preferable to sigmoid when the outputs of the computations are desired to be both positive and	negative.\
+	- also, easier to train (mean-centering and larger gradient) than sigmoid\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+More recent ones:\
+ReLu:	Rectified Linear Unit, may\{v,0\}\
+Hard tanh \
+\
+ReLU and hard tanh  have largely replaced the sigmoid and soft tan activation functions in modern neural networks because of the ease in training multi-layered neural networks with these activation function\
+\
+Non-linear activation functions important in multi-layered architectures\
+Nonlinear functions include sign, sigmoid, hyperbolic tangents\
+\
+Most basic activation function: identify or linear activation - provides no nonlinearlity.\
+Linear activation function is often used in the output node when the target is a real value.\
+It is even used for discrete outputs when a smoothed surrogate loss function needs to be set up.\
+\
+
+\b \ul Choice and Number of Output Nodes\
+
+\b0 \ulnone Choice and number of output nodes is also tied to the activation function, which in turns depends on the application at hand\
+\
+Example: if k-way classification is intended, k output values can be used with a softmax activation function used with respect to outputs at the nodes in a given layer\
+\
+Final hidden layer often uses linear (identity) activations, when it is input input into the softmax layer\
+No weights associated with softmax layer, since it is only converting real-valued outputs into probabilities\
+\
+Softmax with a single hidden layer of linear activations is equivalent to multinomial logistic regression\
+\
+
+\b \ul Choice of Loss Function\
+
+\b0 \ulnone Choice of loss function is critical in defining the output in a way that is sensitive to the application at hand\
+ - least-squared regressions with numeric outputs - require a simple squared loss for a single training instance\
+\
+ - support vector machine: hinge loss\
+\
+- multiway predictions (like word predictions or one of multiple classes) - softmax output is very useful. But softmax output requires a different loss function, depending on whether output is binary or whether is is multiway:\
+	1. Binary targets (logistic regression, logistic regression loss function or sigmoid activation function which indicates probability that observed value is 1. Then the negative logarithm of  (1.2.15 from book)\
+\
+	2. Categorical targets: L = -log(that). . this type of loss function implements multinomial logistic regression, and is referred to as the cross-entropy loss.\
+\
+ ** binary logistic regression is identical to multinomial logistic regression when the value of k is set to 2 in the multinomial logistic regression (k = number of classes)\
+\
+Point to remember: activation function, loss function and nature of output nodes all depend on each other and on the application at hand.\
+\
+Generally, cross-entropy loss is easier to optimize than squared loss and for discrete-valued output its common to sue softmax activation with cross-entropy loss.  For real-valued outputs, its common to use linear activation with squared loss.\
+\
+
+\b \ul CNN\
+
+\b0 \ulnone Architecture is carefully designed in order to conform to typical properties of image data\
+Minimizes risk of overfitting by incorporating domain-specific insights (or bias)\
+- Overfitting occurs when the number of free parameters (which is typically equal to the number of weight connections) is too large compared to the size of training data.\
+- in such cases, the large number of parameters memorize the specific nuances of the training data but fail to recognize the statistically significant patterns for classifying unseen test data\
+- clearly increasing the number of nodes in the neural network tends to encourage overfitting\
+\
+**Way in which the neural network is trained also has an impact on the quality of the final solution.\
+\
+Neural networks as 
+\b universal function approximations: 
+\b0 theoretical claim not always easy to translate into practical usefulness. Main issue is that the number of hidden units required to do so is rather large, which increases the number of parameters to be learned. This results in practical problems in training the network with a limited amount of data.  In fact, deeper networks are often preferred because they reduce the number of hidden units in each layer as well as the overall number of parameters.\
+\
+
+\b Backpropogragion algorithm: 
+\b0 uses dynamic programming to work out the complicated parameter update steps of the underlying computational graph\
+\
+(Loss function in multi-layer neural networks is a complicated composition function of the weights in earlier layers - backpropogragion uses chain rule  and leverages dynamic programming because f the exponential number of components (paths) )\
+\
+But too much training data, could produce an overly simple model that doesn\'92t capture complex relationships between feature and target\
+\
+Balance between overfitting and loss of generality (underfitting?) - the total number of training data points should one at least 2 to 3 times larger then the number of parameters in the neural network, although the precise number of data instances depends on the specific model at hand\
+\
+***Even when amount of data available is sufficient, neural networks require careful design to minimize the harmful effects of overfitting***\
+\
+
+\b Design method to mitigate impact of overfitting:\
+Regularization: 
+\b0 since a large number of parameters causes overfitting, a natural approach is to constrain the model to use fewer non-zero parameters. Smaller absolute values of parameters also tend to overfit less, but hard to constrain the values of the parameters , a softer approach is adding a penalty to the loss function. In genera, the squared value of each parameter (multiplied with the regularization parameter lambda ) is added to the objective function and the practical result is that a quantify proportional to lambda * wi is subtracted from the update of the parameter wi.  (A kind of weight decay during updates. Removing \'91noisy\'92 patterns).\
+\
+In general, often advisable to use more complex models with regularization rather than simpler models without regularization\
+\
+- Another form of regularization is early stopping, in which gradient descent is ended after only a few iterations.  One way to decide the stopping point is by holding out a part of the training data and then testing the error of the model on the held-out set. The gradient-descent approach is terminated when the error on the held-out set begins to rise.  (1.4.13, see the for rest of explanation)\
+\
+- Increased depth is a form of regularization, also, as the features in later layers are forced to obey a particular type of structure imposed by the earlier layers. Increased constraints reduce the capacity of the network\'85..number of units in each later can typically be reduced to such an extend that a deep network often has far fewer parameters even when added up over the greater number of layers. But deep networks have vanishing and exploding gradient problems and often take an unreasonable long time to converge.\
+\
+
+\b Vanishing and Exploding Gradient Problems\
+
+\b0 While increasing depth often rescues number of parameters of the network (and reduces overfitting), it leads to vanishing and exploding gradients. (1.4.2)\
+ \
+Sigmoid activation often encourages vanishing gradient problem but ReLU activation unit is known to be less likely to create a vanishing gradient problem because its derivative is always 1 for positive values of the argument.\
+\
+Adaptive learning rates and conjugate gradient methods can also help convergence behavior.\
+\
+Batch normalization is helpful in addressing this too (batch normalization is a recent technique)\
+\
+Earlier layers in deep networks learn more detailed patterns, later layers lean higher-level patterns\
+Nodes required for a 10-layer network is an order of magnitude less than that required for a single lather-network, which means the amount of data needed for learning is also an order of magnitude less\
+\
+Multilayer networks implicitly look for the repeated regularities and learns them with less data, rather than trying to. Explicitly learn every turn and twist of the target function\
+This becomes obvious in CNNS in which earlier layers model simple features like lines, a middle layer might model elementary shapes and a later layer might model a complex shape like face.\
+\
+Disadvantages of deeper networks: harder to train and show the vanishing and exploding gradient problem (unstable behavior) \
+\
+**Deep networks are also notoriously unstable to parameter choice**\
+\
+To address the disadvantages:\
+	1. Pertaining procedures to improve performance\
+	2. Careful design of functions w/in nodes\
+\
+Hidden layers generally do not take inputs and loss is not computed in the hidden layers
+\f3 , but sometimes in variations of basic feed-froward architecture, loss functions are computed not just at output nodes also at the hidden nodes in the form as penalties that act as regularizers\
+\
+Recent example of a sign choice: 
+\b skip connections, used in ResNet
+\b0 . Differ from traditional feed-forward networks in which features are hierarchical in which later layers are increasingly abstract representations obtained from those in previous layers - in skip connections, iterative view of feature3 engineering, in which feature in later layers are iterative refinements of those in previous layers\
+\
+
+\f0 \
+
+\b \ul CNN\
+\
+
+\b0 \ulnone Each pixel in an image is separated into its of it\'92s three RGB components, Images are represented by the computer as three day arrays: width x height x 3.\
+
+\b \ul \
+
+\b0 \ulnone CNNs are biologically inspired and used in computer vision for image classification and object detection.\
+\
+\
+\pard\pardeftab720\sl320\partightenfactor0
+
+\fs28 \cf5 \cb4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 CNNs take a different approach towards regularization: they take advantage of the hierarchical pattern in data and assemble more complex patterns using smaller and simpler patterns. Therefore, on the scale of connectedness and complexity, CNNs are on the lower extreme.\
+\
+
+\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+
+\b Convolution Layer:\
+
+\b0 Convolution layer is defined, in which a filter is used to map the activations from one layer to the next\
+Convolution operation uses a 3-dimensional filter of weights with the same depth as the current layer but with a smaller spatial extent.\
+\
+The dot product between all the weights in the filter and any choice of spatial region (of the same size as the filter) in a layer defines the value of the hidden state in the next layer (after applying an activation function like ReLU)\
+\
+Connections in a cnn are very sparse, because any activation in a particularly layer is a function of only a small spatial region in the previous layer. All layers other then the final set of two or three layers maintain their spatial structure.  Therefore is it possible to spatially visualize what parts of the image affect particular portions of the activations in a layer.\
+\
+Lower layers = capture lines or other primitive shapes\
+Higher-level layers capture more complex shapes like loops (which commonly occur in many digits)\
+\
+The filters in the convolutional layers are what detect the patterns\
+\
+Some filters can be edge detectors (edges on images) , circle, squares\
+Start of network - simple geometric images\
+
+\b \
+\
+\
+Subsampling layer:\
+
+\b0 Averages the values in the local regions of size 2 x 2 in order to compress the spatial footprints or the layers by a factor of 2.\
+\
+\
+\
+\
+\
+\
+\
+\
+
+\b \ul Resnet34\
+\pard\pardeftab720\sl280\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8"}}{\fldrslt 
+\f1\b0 \cf2 \expnd0\expndtw0\kerning0
+\ulc2 https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8}}
+\f1\b0 \cf2 \expnd0\expndtw0\kerning0
+\ulc2 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0 \cf0 \kerning1\expnd0\expndtw0 \ulnone 33 convolution layers + output layer?\
+Reduction of input volume between layers ac fhieved by an increase in stride from 1 to 2 at the first convolution of each layer (see image) instead of by a pooling operation\
+\
+\
+\
+\
+\
+}

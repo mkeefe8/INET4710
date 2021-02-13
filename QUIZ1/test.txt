@@ -1,0 +1,11 @@
+parrot grey	465
+parrot grey	460
+parrot grey	407
+ringneck african	112
+ringneck african	115
+ringneck african	108
+ringneck african        109
+ringneck african	109
+zebra finch	16
+zebra finch	16
+zebra finch	16

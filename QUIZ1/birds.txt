@@ -1,0 +1,4643 @@
+parakeet crimson rosella	160
+parrot cape	461
+parrot grey	465
+parrot pesquet's	590
+amazon yellow-shouldered	280
+ringneck african	112
+cockatoo gangang	313
+parrot red-bellied	126
+cockatoo goffin's	208
+parrot greater vasa	553
+cockatoo greater sulphur-crested	853
+amazon orange-winged	487
+macaw hyacinthine	1269
+cockatoo goffin's	334
+ringneck african	109
+amazon tres marias	497
+parakeet quaker	68
+conure blue-crowned	138
+cockatoo galah	320
+amazon red-lored	347
+parrot scarlet-chested	44
+amazon spectacled	212
+lory rainbow	132
+parakeet grey-cheeked	55
+parrot timneh grey	334
+parakeet red-rumped	47
+parrot timneh grey	324
+parrot brown-headed	58
+macaw lear's	959
+parrot pesquet's	707
+conure dusky	85
+lovebird masked	66
+pionus white-capped	182
+parrot grey	460
+macaw green-winged	1609
+parrot lesser vasa	283
+conure nanday	132
+parakeet moustache	121
+lory chattering	211
+cockatoo moluccan	782
+parrot brown-headed	97
+conure white-eyed	177
+parakeet moustache	126
+ringneck african	115
+conure green-cheeked	71
+lovebird masked	55
+macaw red-fronted	530
+Pionus blue-headed	281
+macaw noble	184
+parakeet budgerigar	29
+caique black-headed	136
+parrot brown-headed	103
+lory rainbow	134
+parrot timneh grey	312
+parakeet quaker	94
+macaw severe	350
+macaw green-winged	1915
+amazon yellow-naped	511
+macaw severe	364
+cockatoo goffin's	401
+parrot grey	407
+saint vincent	644
+lovebird peach-faced	58
+lory red	124
+macaw severe	375
+conure jenday	91
+macaw green-winged	1591
+eclectus	370
+lovebird masked	35
+macaw red-fronted	523
+conure queen of bavaria's	244
+amazon xanthopterys	781
+parakeet budgerigar	50
+lory red	150
+cockatoo moluccan	808
+amazon lilac-crowned	394
+cockatoo lesser sulphur-crested	314
+amazon mealy	515
+cockatiel	96
+macaw hahn's	188
+conure queen of bavaria's	244
+ringneck african	108
+pionus dusky	195
+lovebird peach-faced	55
+lovebird fisher's	61
+red-fronted kakariki	74
+lory red	171
+parrot cape	403
+macaw noble	197
+pionus dusky	199
+parakeet red-rumped	71
+lory blue-streaked	131
+macaw red-fronted	522
+parakeet grey-cheeked	55
+cockatoo lesser sulphur-crested	332
+amazon orange-winged	629
+parakeet golden-manteled	125
+amazon orange-winged	259
+cockatiel	81
+conure orange-fronted	60
+parakeet bourke's	49
+macaw scarlet	1035
+conure blue-crowned	157
+amazon mealy	532
+conure orange-fronted	87
+conure green-cheeked	71
+cockatiel	76
+parrot lesser vasa	282
+conure painted	57
+amazon blue-fronted	258
+parrot greater vasa	458
+parakeet bourke's	50
+conure red-masked	205
+macaw hyacinthine	1378
+conure queen of bavaria's	305
+amazon yellow-billed	283
+amazon lilac-crowned	329
+amazon lilac-crowned	334
+macaw hahn's	168
+macaw noble	193
+parakeet canary-winged	94
+amazon spectacled	207
+canary	22
+caique white-bellied	161
+parakeet golden-manteled	78
+parrot grey	467
+parakeet quaker	81
+parrot great-billed	260
+cockatoo goffin's	340
+kea	1030
+zebra finch	15
+cockatoo gangang	293
+conure lesser patagonian	244
+pionus bronze-winged	225
+parakeet bourke's	50
+parrot great-billed	260
+conure queen of bavaria's	260
+amazon yellow-shouldered	295
+amazon xanthopterys	611
+macaw scarlet	1151
+parakeet budgerigar	30
+amazon green-cheeked	284
+kea	992
+parakeet derbyan	279
+cockatoo moluccan	651
+conure sun	112
+conure painted	53
+lory red	142
+parakeet grey-cheeked	55
+conure jenday	66
+conure blue-crowned	159
+parrotlet pacific	31
+macaw military	1190
+parakeet canary-winged	92
+macaw spix's	188
+kea	798
+parrot greater vasa	524
+conure sun	116
+parrot greater vasa	428
+amazon tres marias	528
+cockatoo rose-breasted	316
+eclectus	420
+lovebird masked	67
+parrot pesquet's	738
+conure jenday	155
+conure sun	111
+parakeet alexandrine	259
+lovebird fisher's	53
+amazon blue-fronted	269
+parakeet grey-cheeked	56
+kea	1084
+conure green-cheeked	71
+lory red	207
+lovebird peach-faced	52
+cockatoo umbrella	656
+cockatoo gangang	299
+parakeet alexandrine	241
+parakeet red-rumped	83
+parakeet bourke's	50
+parakeet canary-winged	61
+conure nanday	146
+macaw yellow-collared	237
+caique white-bellied	177
+parrotlet pacific	31
+conure queen of bavaria's	240
+parrot grey	445
+cockatoo rose-breasted	297
+ringneck african	97
+kea	1061
+caique white-bellied	152
+conure green-cheeked	72
+lory dusky	118
+cockatiel	61
+parrot pesquet's	895
+lovebird masked	51
+macaw yellow-collared	208
+parrot meyer's	126
+parrot greater vasa	437
+parakeet monk	169
+conure queen of bavaria's	263
+parrot greater vasa	467
+caique black-headed	152
+parrotlet pacific	33
+pionus dusky	232
+parrot grey	463
+lory rainbow	125
+amazon yellow-shouldered	287
+parakeet canary-winged	45
+caique white-bellied	153
+amazon red-lored	343
+parrot timneh grey	326
+amazon tres marias	539
+parrot pesquet's	896
+red-fronted kakariki	85
+saint vincent	771
+cockatoo lesser sulphur-crested	383
+conure jenday	106
+saint vincent	748
+macaw noble	170
+caique white-bellied	140
+parrot red-bellied	122
+parakeet moustache	122
+amazon tres marias	476
+macaw illiger's	300
+macaw red-fronted	531
+conure lesser patagonian	282
+conure blue-crowned	160
+lovebird masked	53
+cockatoo lesser sulphur-crested	357
+caique black-headed	142
+conure red-masked	231
+amazon mealy	548
+Pionus blue-headed	274
+parrot grey	438
+lovebird peach-faced	38
+pionus bronze-winged	216
+parakeet bourke's	50
+cockatoo rose-breasted	300
+caique white-bellied	157
+cockatoo moluccan	761
+macaw illiger's	265
+conure red-masked	183
+macaw military	1028
+amazon yellow-naped	560
+parakeet red-rumped	63
+parrot cape	360
+conure jenday	153
+lovebird fisher's	45
+canary	22
+cockatoo lesser sulphur-crested	324
+parrot great-billed	260
+macaw yellow-collared	238
+eclectus	411
+parakeet plum-headed	93
+parakeet bourke's	50
+amazon yellow-billed	381
+parrot red-bellied	124
+conure dusky	91
+parrot pesquet's	749
+caique white-bellied	156
+parakeet barraband's	113
+cockatoo gangang	309
+parakeet red-rumped	34
+parakeet moustache	112
+cockatoo rose-breasted	314
+parrot timneh grey	332
+macaw severe	327
+macaw military	814
+parakeet plum-headed	95
+amazon vinaceous	410
+eclectus	427
+macaw hahn's	163
+conure dusky	87
+amazon red-lored	333
+lory dusky	177
+macaw green-winged	1162
+cockatoo galah	344
+parrot meyer's	114
+amazon vinaceous	342
+parrot timneh grey	302
+macaw hahn's	164
+parakeet canary-winged	51
+cockatoo gangang	332
+parrot brown-headed	111
+conure green-cheeked	70
+macaw scarlet	1048
+conure blue-crowned	151
+conure blue-crowned	147
+amazon spectacled	209
+parakeet crimson rosella	136
+parrotlet pacific	34
+amazon blue-fronted	295
+parakeet budgerigar	23
+conure dusky	87
+amazon tucuman	312
+lovebird masked	33
+conure queen of bavaria's	252
+parakeet bourke's	51
+amazon lilac-crowned	326
+macaw spix's	387
+pionus bronze-winged	223
+amazon lilac-crowned	171
+amazon tres marias	439
+parakeet crimson rosella	143
+conure orange-fronted	84
+parrot hawk-headed	234
+amazon yellow-billed	271
+ringneck african	84
+parakeet bourke's	50
+amazon blue-fronted	267
+lovebird peach-faced	53
+parakeet red-rumped	27
+lory chattering	187
+caique white-bellied	169
+parrot cape	193
+pionus dusky	247
+conure jenday	129
+lovebird peach-faced	37
+macaw green-winged	1089
+eclectus	398
+parakeet canary-winged	82
+lovebird fisher's	48
+amazon yellow-shouldered	292
+pionus dusky	125
+macaw green-winged	1591
+parakeet grey-cheeked	55
+parrot grey	442
+parakeet alexandrine	248
+lory red	179
+amazon vinaceous	353
+amazon blue-fronted	286
+amazon mealy	620
+conure greater patagonian	240
+conure mitred	167
+conure dusky	90
+macaw noble	191
+cockatiel	108
+parrot lesser vasa	273
+parakeet quaker	67
+cockatoo rose-breasted	294
+cockatoo rose-breasted	264
+cockatiel	66
+macaw military	882
+cockatoo umbrella	513
+macaw noble	212
+pionus bronze-winged	224
+amazon tres marias	516
+conure blue-crowned	144
+parakeet bourke's	50
+parakeet quaker	125
+cockatoo rose-breasted	308
+amazon yellow-shouldered	292
+parrot timneh grey	343
+macaw hyacinthine	1281
+parakeet grey-cheeked	55
+macaw hahn's	151
+parrot greater vasa	444
+amazon yellow-naped	546
+caique black-headed	150
+caique white-bellied	155
+parrot hawk-headed	281
+macaw green-winged	1771
+Pionus blue-headed	177
+macaw scarlet	908
+macaw noble	195
+eclectus	454
+parakeet red-rumped	40
+parakeet bourke's	49
+caique black-headed	124
+amazon yellow-naped	628
+conure jenday	140
+amazon cuban	252
+amazon green-cheeked	236
+cockatoo galah	320
+lovebird fisher's	48
+conure queen of bavaria's	258
+parakeet budgerigar	42
+amazon tucuman	323
+macaw hyacinthine	1434
+parrot senegal	123
+macaw severe	381
+amazon tucuman	322
+amazon green-cheeked	239
+cockatiel	89
+lovebird peach-faced	52
+macaw severe	385
+parakeet red-rumped	59
+parrot cape	409
+amazon mealy	547
+caique black-headed	146
+lory rainbow	132
+parrot timneh grey	314
+parrot brown-headed	66
+macaw noble	191
+conure painted	54
+cockatoo umbrella	435
+amazon yellow-naped	578
+parakeet derbyan	318
+macaw scarlet	1268
+parakeet plum-headed	77
+ringneck indian	119
+cockatoo rose-breasted	312
+macaw noble	193
+macaw scarlet	1060
+lory blue-streaked	182
+macaw noble	186
+parakeet crimson rosella	116
+parrot grey	470
+cockatoo moluccan	706
+cockatoo gangang	218
+cockatoo umbrella	587
+cockatoo umbrella	489
+parakeet moustache	127
+macaw hahn's	134
+zebra finch	17
+parakeet canary-winged	69
+conure painted	56
+cockatiel	124
+macaw hyacinthine	1299
+amazon yellow-naped	517
+zebra finch	16
+caique black-headed	176
+parrot lesser vasa	259
+lory blue-streaked	134
+lory red	151
+macaw military	882
+caique black-headed	166
+saint vincent	545
+parakeet budgerigar	34
+parakeet bourke's	50
+cockatiel	94
+conure sun	109
+amazon xanthopterys	487
+parrot pesquet's	786
+parakeet quaker	83
+parakeet quaker	84
+conure white-eyed	165
+lory rainbow	134
+parrot pesquet's	362
+conure sun	116
+parakeet budgerigar	29
+cockatiel	72
+lovebird masked	61
+lovebird peach-faced	91
+lory chattering	169
+macaw hahn's	134
+pionus dusky	222
+amazon vinaceous	357
+parakeet moustache	117
+parrot jardine's	222
+conure queen of bavaria's	355
+amazon vinaceous	423
+ringneck indian	119
+lory red	143
+conure jenday	118
+kea	1141
+amazon tres marias	571
+conure white-eyed	122
+conure dusky	92
+parrot great-billed	260
+parrot cape	345
+lory dusky	151
+parakeet golden-manteled	110
+conure blue-crowned	151
+conure orange-fronted	68
+zebra finch	16
+macaw spix's	420
+conure jenday	162
+amazon yellow-billed	202
+conure red-masked	178
+parrot cape	177
+macaw spix's	529
+lovebird peach-faced	50
+parakeet red-rumped	81
+cockatoo rose-breasted	316
+lory rainbow	127
+parrot senegal	154
+parrot meyer's	132
+lory red	165
+parrot timneh grey	316
+parrot timneh grey	313
+parrot brown-headed	96
+parakeet bourke's	50
+canary	26
+amazon blue-fronted	265
+macaw green-winged	1656
+lory blue-streaked	158
+eclectus	341
+zebra finch	17
+canary	19
+macaw severe	314
+lory blue-streaked	138
+parakeet derbyan	343
+macaw illiger's	256
+amazon yellow-fronted	398
+macaw blue and gold	1319
+parrot lesser vasa	280
+macaw blue and gold	1311
+eclectus	397
+parakeet canary-winged	67
+caique black-headed	170
+Pionus blue-headed	228
+macaw hyacinthine	1318
+macaw scarlet	1162
+caique black-headed	133
+macaw severe	308
+parakeet red-rumped	71
+parakeet bourke's	51
+cockatoo galah	357
+cockatoo galah	346
+parrot scarlet-chested	39
+lory blue-streaked	163
+parakeet barraband's	172
+cockatoo moluccan	719
+lovebird masked	50
+macaw hahn's	165
+conure jenday	91
+amazon orange-winged	411
+macaw spix's	359
+macaw red-fronted	527
+parrot cape	352
+parakeet crimson rosella	159
+lovebird masked	54
+parakeet crimson rosella	143
+Pionus blue-headed	184
+conure greater patagonian	314
+parakeet canary-winged	70
+parakeet derbyan	354
+cockatoo moluccan	823
+caique black-headed	191
+amazon mealy	575
+parrot brown-headed	113
+pionus dusky	220
+parakeet quaker	62
+pionus bronze-winged	219
+conure blue-crowned	125
+parrot pesquet's	487
+parakeet grey-cheeked	55
+lory red	188
+parrot scarlet-chested	39
+parakeet moustache	133
+parrotlet pacific	35
+lovebird peach-faced	67
+lovebird peach-faced	60
+conure queen of bavaria's	264
+parrotlet pacific	35
+caique black-headed	144
+ringneck african	113
+lory rainbow	136
+cockatiel	124
+macaw noble	192
+conure jenday	108
+macaw blue and gold	1311
+conure orange-fronted	85
+amazon yellow-fronted	395
+conure nanday	149
+parakeet bourke's	50
+parrot senegal	129
+parrot timneh grey	302
+parakeet plum-headed	97
+macaw green-winged	1223
+lovebird peach-faced	58
+parrot lesser vasa	285
+eclectus	374
+amazon tucuman	324
+conure green-cheeked	67
+parakeet red-rumped	74
+cockatoo gangang	266
+conure sun	114
+conure blue-crowned	146
+conure white-eyed	176
+parakeet monk	168
+pionus dusky	218
+macaw scarlet	800
+caique black-headed	136
+amazon red-lored	335
+macaw noble	178
+parakeet quaker	79
+parakeet budgerigar	47
+parrot red-bellied	130
+macaw hahn's	157
+macaw scarlet	1198
+cockatoo goffin's	379
+parrot cape	250
+parrot red-bellied	125
+parrot jardine's	187
+parakeet barraband's	128
+kea	1237
+macaw spix's	357
+caique black-headed	149
+macaw military	1150
+parakeet plum-headed	92
+amazon yellow-billed	247
+parakeet crimson rosella	137
+conure nanday	138
+parakeet grey-cheeked	55
+cockatoo goffin's	324
+cockatoo gangang	292
+parakeet quaker	76
+parakeet red-rumped	76
+conure orange-fronted	94
+parakeet canary-winged	77
+amazon yellow-fronted	511
+macaw green-winged	1436
+cockatoo moluccan	793
+amazon yellow-billed	241
+Pionus blue-headed	243
+parakeet monk	155
+parakeet red-rumped	72
+caique black-headed	143
+cockatoo moluccan	765
+amazon vinaceous	386
+parrot brown-headed	131
+conure nanday	135
+amazon orange-winged	494
+cockatoo gangang	255
+macaw severe	337
+caique white-bellied	156
+ringneck african	118
+cockatoo umbrella	352
+amazon red-lored	331
+ringneck indian	107
+parakeet golden-manteled	137
+conure painted	44
+amazon spectacled	221
+caique white-bellied	191
+conure orange-fronted	68
+macaw illiger's	253
+amazon vinaceous	305
+Pionus blue-headed	258
+amazon green-cheeked	245
+parrot brown-headed	109
+parrot lesser vasa	271
+parrotlet pacific	34
+parrot hawk-headed	294
+parakeet quaker	80
+parrot lesser vasa	278
+parakeet monk	162
+Pionus blue-headed	233
+red-fronted kakariki	109
+amazon tres marias	488
+cockatoo galah	373
+cockatoo moluccan	712
+conure blue-crowned	132
+cockatoo rose-breasted	298
+caique black-headed	143
+lovebird peach-faced	91
+macaw red-fronted	508
+amazon cuban	253
+conure orange-fronted	66
+conure nanday	144
+amazon green-cheeked	265
+cockatoo lesser sulphur-crested	385
+conure greater patagonian	323
+cockatiel	115
+parrot lesser vasa	270
+lory chattering	175
+caique black-headed	183
+parakeet golden-manteled	113
+cockatoo umbrella	485
+lory red	178
+parrot timneh grey	343
+pionus bronze-winged	216
+amazon spectacled	203
+conure sun	115
+amazon yellow-naped	601
+macaw severe	389
+cockatiel	131
+macaw spix's	196
+parakeet moustache	139
+lovebird peach-faced	37
+macaw military	863
+canary	28
+parakeet bourke's	49
+lory red	125
+lovebird peach-faced	58
+cockatiel	95
+cockatoo rose-breasted	265
+parrot cape	357
+macaw hyacinthine	1350
+pionus dusky	181
+macaw illiger's	316
+parrot lesser vasa	277
+conure dusky	86
+amazon spectacled	212
+parakeet budgerigar	35
+parakeet golden-manteled	125
+parakeet barraband's	170
+macaw military	962
+parakeet grey-cheeked	55
+parakeet moustache	128
+cockatoo galah	344
+caique black-headed	142
+macaw green-winged	1096
+parakeet quaker	89
+parrot red-bellied	124
+macaw red-fronted	528
+parakeet grey-cheeked	55
+zebra finch	16
+macaw noble	176
+amazon green-cheeked	273
+conure nanday	143
+eclectus	477
+conure dusky	92
+cockatoo greater sulphur-crested	804
+lovebird peach-faced	52
+amazon cuban	226
+parrot grey	460
+macaw noble	156
+parrot meyer's	115
+parakeet monk	148
+amazon yellow-shouldered	273
+cockatoo lesser sulphur-crested	327
+conure jenday	77
+conure lesser patagonian	275
+macaw noble	194
+parakeet quaker	84
+parakeet canary-winged	42
+macaw spix's	395
+amazon spectacled	220
+saint vincent	550
+eclectus	418
+parakeet quaker	74
+pionus dusky	203
+cockatiel	82
+amazon spectacled	212
+ringneck indian	106
+cockatoo moluccan	761
+parrot grey	491
+conure white-eyed	133
+parakeet moustache	113
+lory red	193
+cockatoo lesser sulphur-crested	302
+macaw hyacinthine	1328
+parakeet quaker	93
+amazon blue-fronted	270
+amazon red-lored	392
+cockatoo gangang	271
+macaw hahn's	197
+parakeet plum-headed	98
+pionus white-capped	178
+macaw military	1094
+parakeet golden-manteled	130
+conure jenday	88
+parrot greater vasa	447
+parakeet barraband's	138
+amazon tucuman	322
+amazon red-lored	331
+caique white-bellied	200
+amazon tres marias	542
+amazon yellow-billed	337
+parrot timneh grey	309
+amazon tres marias	491
+parrot cape	316
+cockatoo gangang	336
+cockatiel	99
+parrot timneh grey	357
+pionus white-capped	171
+conure lesser patagonian	305
+conure painted	52
+parakeet moustache	139
+parrotlet pacific	33
+parakeet golden-manteled	124
+conure jenday	140
+conure painted	59
+lovebird peach-faced	67
+macaw yellow-collared	229
+cockatoo lesser sulphur-crested	359
+cockatoo galah	334
+parakeet quaker	126
+parakeet bourke's	50
+amazon blue-fronted	260
+parakeet bourke's	49
+conure green-cheeked	70
+macaw scarlet	971
+conure jenday	67
+macaw hahn's	141
+amazon mealy	549
+parrot senegal	76
+parakeet red-rumped	54
+parakeet plum-headed	101
+conure green-cheeked	68
+parrot cape	330
+cockatoo umbrella	558
+cockatoo lesser sulphur-crested	342
+caique white-bellied	169
+conure blue-crowned	156
+parakeet canary-winged	77
+lovebird fisher's	49
+conure painted	64
+cockatoo gangang	225
+parrot greater vasa	429
+parakeet alexandrine	226
+cockatoo lesser sulphur-crested	358
+conure lesser patagonian	234
+conure dusky	93
+parrot red-bellied	127
+eclectus	388
+eclectus	390
+lovebird peach-faced	49
+caique white-bellied	163
+amazon yellow-fronted	416
+conure painted	55
+parrot lesser vasa	285
+amazon tres marias	495
+parrot pesquet's	710
+canary	27
+parrot timneh grey	350
+parrot grey	461
+macaw spix's	377
+amazon blue-fronted	315
+parakeet grey-cheeked	55
+parakeet barraband's	169
+cockatoo galah	366
+conure dusky	92
+macaw hyacinthine	1239
+conure greater patagonian	355
+cockatoo moluccan	785
+lovebird fisher's	60
+lory dusky	119
+amazon mealy	698
+parrotlet pacific	35
+parrot timneh grey	334
+amazon red-lored	337
+saint vincent	639
+saint vincent	554
+conure dusky	88
+parakeet canary-winged	72
+parakeet budgerigar	34
+cockatoo rose-breasted	257
+amazon spectacled	187
+parakeet alexandrine	222
+parakeet golden-manteled	88
+amazon yellow-fronted	513
+cockatoo goffin's	289
+parrot jardine's	218
+cockatoo umbrella	535
+parrot hawk-headed	306
+conure blue-crowned	154
+parrot lesser vasa	276
+parrot jardine's	219
+conure jenday	120
+conure sun	123
+kea	845
+caique white-bellied	178
+cockatoo gangang	353
+macaw hahn's	142
+parakeet grey-cheeked	55
+macaw noble	194
+cockatiel	29
+parrot greater vasa	520
+cockatoo umbrella	521
+amazon yellow-billed	240
+parakeet moustache	140
+cockatiel	88
+parakeet moustache	133
+conure blue-crowned	129
+cockatoo galah	372
+macaw hyacinthine	1313
+cockatoo galah	356
+parakeet barraband's	139
+parrot jardine's	166
+parrot greater vasa	509
+amazon vinaceous	336
+conure orange-fronted	73
+macaw spix's	337
+amazon red-lored	345
+caique black-headed	137
+conure white-eyed	183
+conure greater patagonian	289
+conure blue-crowned	170
+parakeet derbyan	327
+parakeet quaker	99
+parakeet barraband's	115
+lovebird peach-faced	63
+conure painted	54
+macaw hahn's	193
+parrot red-bellied	123
+conure painted	56
+amazon tres marias	549
+parakeet barraband's	125
+parrotlet pacific	33
+amazon yellow-billed	302
+cockatoo lesser sulphur-crested	340
+macaw severe	310
+conure greater patagonian	291
+parrot pesquet's	841
+amazon lilac-crowned	319
+saint vincent	561
+conure blue-crowned	155
+amazon tucuman	325
+cockatoo gangang	281
+parrot grey	453
+conure jenday	134
+cockatoo moluccan	735
+conure orange-fronted	61
+macaw hahn's	160
+parrot timneh grey	333
+parrot brown-headed	120
+caique black-headed	135
+parakeet grey-cheeked	55
+lovebird masked	49
+parakeet canary-winged	90
+cockatiel	101
+conure jenday	108
+caique black-headed	157
+conure jenday	141
+amazon tucuman	327
+parakeet grey-cheeked	55
+parakeet red-rumped	59
+amazon cuban	235
+amazon cuban	248
+parakeet plum-headed	78
+amazon tres marias	446
+parakeet golden-manteled	86
+parrot greater vasa	531
+macaw green-winged	1730
+parakeet derbyan	301
+cockatoo moluccan	742
+lovebird masked	59
+parakeet budgerigar	34
+lory red	170
+caique white-bellied	158
+parrotlet pacific	33
+amazon yellow-naped	576
+parakeet monk	150
+canary	24
+parrot pesquet's	750
+parakeet quaker	65
+ringneck indian	144
+cockatoo moluccan	781
+parrot scarlet-chested	43
+macaw noble	192
+parrot scarlet-chested	44
+lory dusky	166
+conure queen of bavaria's	232
+parakeet grey-cheeked	55
+amazon spectacled	202
+amazon tres marias	560
+macaw noble	183
+macaw illiger's	310
+parrot red-bellied	128
+cockatoo goffin's	363
+Pionus blue-headed	215
+parakeet grey-cheeked	55
+saint vincent	631
+parrot brown-headed	100
+parakeet grey-cheeked	56
+parakeet grey-cheeked	55
+conure blue-crowned	136
+red-fronted kakariki	88
+cockatoo moluccan	789
+cockatoo gangang	265
+parakeet bourke's	50
+parrot timneh grey	315
+parakeet monk	153
+parrot brown-headed	147
+conure green-cheeked	73
+lory blue-streaked	141
+conure orange-fronted	82
+parakeet barraband's	160
+amazon blue-fronted	302
+parakeet budgerigar	39
+parrot grey	443
+amazon tres marias	450
+conure queen of bavaria's	217
+pionus dusky	211
+macaw illiger's	282
+parrot greater vasa	482
+amazon yellow-fronted	448
+cockatoo rose-breasted	277
+pionus bronze-winged	185
+macaw green-winged	1490
+conure white-eyed	95
+parrot timneh grey	325
+amazon vinaceous	425
+parakeet moustache	130
+parrot pesquet's	757
+parrot timneh grey	333
+macaw hahn's	175
+saint vincent	599
+parrot timneh grey	338
+amazon vinaceous	422
+cockatoo gangang	265
+kea	1379
+amazon yellow-fronted	533
+amazon vinaceous	348
+cockatiel	105
+conure blue-crowned	158
+macaw severe	324
+amazon red-lored	334
+cockatoo gangang	327
+caique black-headed	150
+amazon orange-winged	269
+amazon blue-fronted	251
+conure jenday	72
+cockatoo palm	1030
+lory dusky	167
+lovebird fisher's	55
+conure blue-crowned	126
+amazon orange-winged	485
+parrot timneh grey	345
+amazon cuban	252
+parrotlet pacific	35
+amazon spectacled	208
+ringneck african	113
+cockatoo moluccan	771
+amazon yellow-billed	203
+amazon yellow-billed	292
+canary	19
+conure dusky	94
+conure lesser patagonian	219
+ringneck african	118
+parakeet crimson rosella	157
+amazon yellow-fronted	386
+macaw hahn's	184
+Pionus blue-headed	265
+amazon tucuman	314
+conure sun	121
+parrot red-bellied	129
+caique white-bellied	169
+pionus white-capped	163
+amazon yellow-fronted	427
+macaw severe	344
+caique black-headed	149
+parrotlet pacific	32
+parrot grey	442
+conure sun	116
+amazon tucuman	320
+macaw hahn's	120
+amazon yellow-shouldered	254
+cockatoo moluccan	747
+cockatiel	100
+parrot brown-headed	144
+Pionus blue-headed	244
+conure blue-crowned	142
+parakeet grey-cheeked	55
+Pionus blue-headed	235
+macaw hahn's	154
+eclectus	394
+macaw green-winged	2001
+parrot jardine's	184
+cockatoo galah	345
+cockatoo umbrella	357
+conure white-eyed	200
+amazon tres marias	544
+amazon vinaceous	367
+cockatoo gangang	296
+parrotlet pacific	34
+cockatoo goffin's	267
+cockatoo galah	350
+saint vincent	446
+pionus white-capped	205
+parakeet canary-winged	70
+conure orange-fronted	83
+amazon yellow-shouldered	250
+parakeet quaker	59
+cockatoo lesser sulphur-crested	353
+parakeet barraband's	151
+cockatoo moluccan	721
+lovebird peach-faced	66
+cockatoo umbrella	418
+parakeet red-rumped	51
+parrot pesquet's	794
+amazon green-cheeked	251
+lory dusky	125
+cockatoo goffin's	300
+lory blue-streaked	184
+conure nanday	128
+parrot jardine's	182
+macaw scarlet	994
+parrot pesquet's	928
+ringneck indian	114
+cockatoo palm	1050
+conure mitred	214
+conure orange-fronted	66
+parakeet canary-winged	45
+zebra finch	15
+lory rainbow	131
+lory dusky	153
+conure blue-crowned	176
+amazon mealy	678
+conure lesser patagonian	237
+amazon spectacled	201
+parakeet crimson rosella	184
+parakeet barraband's	129
+cockatoo galah	326
+parakeet red-rumped	69
+parrot pesquet's	759
+red-fronted kakariki	97
+cockatoo goffin's	491
+parrot brown-headed	130
+parrot timneh grey	313
+macaw military	1029
+amazon blue-fronted	322
+macaw hahn's	199
+parrot red-bellied	127
+lovebird masked	53
+conure lesser patagonian	269
+cockatoo gangang	314
+saint vincent	529
+parrot cape	240
+lory red	151
+conure dusky	86
+parrotlet pacific	35
+lovebird peach-faced	70
+amazon red-lored	367
+parrot timneh grey	343
+parrotlet pacific	34
+cockatoo moluccan	773
+lovebird masked	73
+amazon yellow-shouldered	304
+parakeet barraband's	151
+lory dusky	151
+amazon tucuman	316
+cockatoo galah	361
+eclectus	391
+macaw scarlet	1098
+conure sun	113
+amazon spectacled	208
+macaw scarlet	1033
+Pionus blue-headed	278
+amazon green-cheeked	265
+cockatoo greater sulphur-crested	815
+parakeet canary-winged	84
+parakeet quaker	119
+amazon lilac-crowned	286
+macaw hahn's	176
+eclectus	467
+amazon yellow-shouldered	286
+parakeet bourke's	50
+kea	959
+cockatoo gangang	314
+parakeet crimson rosella	156
+lovebird fisher's	51
+pionus bronze-winged	225
+parrotlet pacific	32
+cockatoo lesser sulphur-crested	321
+cockatoo moluccan	783
+lory blue-streaked	222
+ringneck african	97
+macaw hyacinthine	1315
+macaw red-fronted	542
+parrot grey	485
+conure jenday	143
+Pionus blue-headed	227
+parakeet golden-manteled	95
+Pionus blue-headed	210
+macaw green-winged	1659
+eclectus	457
+conure jenday	153
+parrot greater vasa	443
+caique black-headed	159
+lory dusky	163
+amazon yellow-billed	237
+cockatoo gangang	304
+lory blue-streaked	186
+eclectus	409
+parakeet grey-cheeked	55
+parakeet monk	136
+macaw military	889
+kea	1171
+amazon red-lored	358
+amazon yellow-fronted	414
+parrot lesser vasa	286
+amazon cuban	224
+lory red	161
+macaw scarlet	919
+parrot cape	287
+amazon red-lored	358
+lory dusky	185
+cockatiel	82
+macaw hahn's	165
+parrot cape	158
+parrot scarlet-chested	48
+conure queen of bavaria's	276
+macaw spix's	366
+parakeet monk	159
+macaw green-winged	1911
+amazon tucuman	312
+canary	16
+zebra finch	16
+macaw hyacinthine	1350
+parakeet bourke's	49
+parakeet grey-cheeked	55
+amazon yellow-fronted	457
+parakeet grey-cheeked	55
+pionus white-capped	193
+parakeet grey-cheeked	56
+cockatoo palm	863
+macaw spix's	315
+canary	22
+conure red-masked	215
+macaw scarlet	1182
+conure blue-crowned	164
+parakeet moustache	119
+cockatoo palm	719
+parrot red-bellied	123
+caique white-bellied	161
+parrot grey	457
+parakeet plum-headed	71
+cockatoo lesser sulphur-crested	339
+parrot grey	443
+amazon cuban	237
+amazon spectacled	203
+cockatoo lesser sulphur-crested	388
+pionus dusky	206
+parrot grey	438
+parakeet red-rumped	39
+amazon spectacled	201
+conure nanday	142
+cockatoo gangang	257
+parakeet grey-cheeked	55
+cockatoo lesser sulphur-crested	368
+parrotlet pacific	35
+eclectus	438
+amazon yellow-billed	338
+parrot red-bellied	128
+conure orange-fronted	62
+cockatoo lesser sulphur-crested	339
+amazon cuban	222
+parakeet grey-cheeked	55
+parrot hawk-headed	230
+cockatoo galah	350
+parakeet monk	146
+lovebird fisher's	24
+parrot lesser vasa	265
+parakeet quaker	108
+parrot senegal	82
+macaw severe	289
+cockatoo greater sulphur-crested	903
+macaw hahn's	190
+parakeet moustache	127
+parrot timneh grey	343
+conure jenday	118
+parakeet canary-winged	37
+parrot brown-headed	101
+amazon mealy	734
+ringneck african	109
+lory red	187
+parrot lesser vasa	276
+macaw noble	181
+cockatoo goffin's	378
+kea	996
+saint vincent	530
+parakeet crimson rosella	145
+amazon blue-fronted	279
+parakeet golden-manteled	111
+amazon yellow-billed	305
+parrot red-bellied	122
+parakeet moustache	125
+amazon blue-fronted	297
+macaw scarlet	1146
+amazon blue-fronted	275
+parakeet canary-winged	82
+cockatoo galah	340
+conure red-masked	204
+eclectus	461
+cockatoo lesser sulphur-crested	334
+parakeet canary-winged	89
+cockatoo rose-breasted	295
+cockatoo palm	774
+cockatoo lesser sulphur-crested	322
+conure jenday	121
+conure queen of bavaria's	297
+amazon yellow-shouldered	311
+lovebird peach-faced	51
+parrot meyer's	127
+pionus white-capped	181
+amazon orange-winged	526
+cockatoo palm	727
+lovebird fisher's	39
+eclectus	449
+macaw noble	198
+macaw spix's	349
+ringneck african	98
+caique black-headed	153
+canary	21
+amazon blue-fronted	263
+amazon tres marias	456
+macaw green-winged	1806
+lory blue-streaked	161
+lory red	151
+parrot grey	523
+parakeet bourke's	50
+parakeet plum-headed	96
+amazon yellow-billed	261
+lovebird peach-faced	60
+lory dusky	153
+conure nanday	150
+parrot meyer's	129
+macaw military	959
+parakeet derbyan	307
+amazon yellow-fronted	318
+pionus dusky	203
+parakeet plum-headed	97
+kea	821
+amazon tres marias	509
+macaw hahn's	162
+conure greater patagonian	268
+parakeet canary-winged	66
+conure nanday	134
+amazon orange-winged	447
+parakeet canary-winged	48
+conure jenday	154
+lory dusky	153
+caique white-bellied	158
+conure painted	47
+macaw hyacinthine	1318
+macaw red-fronted	512
+cockatoo greater sulphur-crested	819
+conure red-masked	197
+parrot lesser vasa	276
+amazon tucuman	326
+lovebird peach-faced	63
+conure orange-fronted	65
+cockatoo gangang	217
+parakeet barraband's	155
+conure painted	57
+cockatoo lesser sulphur-crested	327
+parakeet grey-cheeked	55
+parakeet red-rumped	69
+parakeet alexandrine	278
+macaw red-fronted	538
+amazon tucuman	330
+kea	868
+conure greater patagonian	316
+macaw severe	352
+caique black-headed	150
+parrot lesser vasa	279
+parrot red-bellied	134
+parakeet budgerigar	34
+pionus dusky	200
+parakeet barraband's	99
+cockatoo moluccan	723
+amazon blue-fronted	292
+ringneck african	104
+lory rainbow	126
+cockatoo lesser sulphur-crested	328
+parrot lesser vasa	282
+conure jenday	106
+parakeet moustache	136
+saint vincent	498
+parrot pesquet's	655
+conure sun	118
+conure jenday	134
+amazon mealy	395
+amazon mealy	726
+macaw illiger's	276
+lory red	109
+parrot pesquet's	574
+conure blue-crowned	150
+parrot red-bellied	130
+lory blue-streaked	196
+parakeet crimson rosella	132
+macaw illiger's	301
+parakeet bourke's	50
+parrot cape	329
+lory red	110
+parakeet crimson rosella	122
+parrot hawk-headed	277
+macaw lear's	983
+pionus bronze-winged	234
+parrot lesser vasa	278
+amazon tres marias	508
+macaw noble	184
+conure jenday	98
+parrot senegal	132
+pionus dusky	236
+macaw severe	348
+conure queen of bavaria's	279
+cockatoo goffin's	381
+amazon orange-winged	411
+cockatoo rose-breasted	272
+lory red	192
+parakeet plum-headed	93
+conure nanday	146
+parrot jardine's	219
+parakeet quaker	75
+parakeet bourke's	51
+pionus dusky	112
+conure blue-crowned	162
+cockatoo gangang	260
+macaw hyacinthine	1254
+amazon spectacled	194
+caique black-headed	178
+parrot pesquet's	874
+conure nanday	132
+amazon spectacled	212
+parakeet grey-cheeked	55
+macaw scarlet	981
+amazon blue-fronted	313
+conure painted	57
+eclectus	456
+amazon yellow-fronted	452
+conure painted	61
+macaw severe	378
+cockatoo rose-breasted	298
+amazon mealy	709
+macaw red-fronted	529
+lory blue-streaked	175
+parakeet canary-winged	71
+saint vincent	601
+parakeet quaker	84
+parrot red-bellied	124
+amazon yellow-billed	314
+cockatoo moluccan	727
+lory blue-streaked	213
+macaw severe	332
+conure white-eyed	187
+amazon vinaceous	362
+amazon spectacled	210
+conure dusky	93
+caique white-bellied	165
+macaw hahn's	184
+macaw spix's	288
+macaw yellow-collared	306
+macaw red-fronted	519
+macaw blue and gold	1302
+cockatiel	75
+parrot greater vasa	635
+cockatiel	99
+cockatoo galah	353
+parakeet derbyan	309
+ringneck african	80
+macaw military	817
+parakeet crimson rosella	120
+amazon blue-fronted	247
+macaw scarlet	1094
+cockatoo umbrella	633
+cockatoo lesser sulphur-crested	385
+amazon mealy	789
+parakeet crimson rosella	91
+cockatoo palm	1163
+parakeet canary-winged	81
+cockatoo moluccan	618
+parakeet quaker	119
+amazon orange-winged	397
+caique black-headed	144
+parakeet grey-cheeked	55
+conure queen of bavaria's	293
+lovebird masked	45
+pionus bronze-winged	194
+conure sun	113
+parrot great-billed	260
+conure painted	52
+amazon vinaceous	420
+amazon vinaceous	301
+parrot greater vasa	493
+conure greater patagonian	322
+parrot scarlet-chested	36
+conure queen of bavaria's	212
+conure green-cheeked	70
+parrot scarlet-chested	39
+parakeet canary-winged	80
+macaw blue and gold	1333
+parrot grey	420
+amazon orange-winged	414
+parakeet moustache	122
+conure queen of bavaria's	270
+parrotlet pacific	33
+eclectus	381
+cockatoo greater sulphur-crested	926
+parrot timneh grey	298
+amazon cuban	225
+parakeet alexandrine	228
+amazon yellow-billed	242
+parrot senegal	144
+lory dusky	131
+lory blue-streaked	157
+parrot brown-headed	108
+kea	1117
+parakeet bourke's	48
+cockatoo gangang	284
+amazon blue-fronted	272
+parrotlet pacific	31
+macaw scarlet	1028
+parrot grey	449
+cockatoo greater sulphur-crested	888
+parrot pesquet's	905
+conure mitred	223
+pionus bronze-winged	181
+parrot red-bellied	122
+pionus bronze-winged	223
+parakeet quaker	78
+conure red-masked	194
+conure orange-fronted	66
+conure painted	45
+cockatoo rose-breasted	289
+macaw scarlet	634
+parrot grey	449
+parakeet grey-cheeked	55
+amazon yellow-shouldered	263
+macaw red-fronted	514
+parakeet moustache	118
+macaw severe	280
+parrot great-billed	260
+macaw noble	197
+amazon mealy	837
+parakeet moustache	117
+amazon blue-fronted	248
+conure blue-crowned	151
+conure white-eyed	151
+parrot red-bellied	126
+parrot pesquet's	852
+lory blue-streaked	174
+parrot greater vasa	327
+amazon blue-fronted	295
+amazon vinaceous	385
+amazon lilac-crowned	375
+parakeet barraband's	137
+caique black-headed	137
+amazon blue-fronted	297
+conure greater patagonian	353
+amazon yellow-shouldered	296
+conure lesser patagonian	229
+parrot pesquet's	401
+cockatoo moluccan	731
+amazon yellow-billed	289
+ringneck african	101
+pionus dusky	172
+parakeet budgerigar	43
+lory red	182
+amazon yellow-billed	228
+parrotlet pacific	32
+amazon yellow-billed	240
+lovebird fisher's	43
+parakeet crimson rosella	156
+parrot red-bellied	130
+macaw illiger's	283
+saint vincent	547
+macaw green-winged	1554
+conure sun	120
+parrot pesquet's	456
+amazon red-lored	361
+amazon yellow-fronted	446
+saint vincent	746
+ringneck african	92
+caique black-headed	163
+parrot meyer's	125
+macaw yellow-collared	289
+lovebird peach-faced	50
+ringneck african	83
+macaw hahn's	168
+parrot pesquet's	768
+amazon blue-fronted	260
+parrot greater vasa	472
+parakeet red-rumped	56
+amazon vinaceous	396
+cockatoo moluccan	708
+conure jenday	110
+lovebird peach-faced	32
+caique white-bellied	159
+macaw noble	200
+caique white-bellied	181
+parrot brown-headed	97
+amazon vinaceous	321
+amazon green-cheeked	240
+macaw illiger's	241
+parakeet quaker	95
+lory blue-streaked	126
+amazon yellow-shouldered	292
+parrot jardine's	267
+macaw spix's	368
+parrot great-billed	260
+cockatoo gangang	218
+caique black-headed	167
+amazon blue-fronted	285
+cockatoo moluccan	764
+lory blue-streaked	184
+eclectus	427
+lory red	168
+macaw blue and gold	1287
+parakeet crimson rosella	147
+kea	1117
+amazon xanthopterys	503
+lory chattering	219
+cockatiel	79
+parrot greater vasa	599
+conure queen of bavaria's	296
+cockatoo moluccan	722
+amazon tres marias	451
+macaw green-winged	1481
+conure blue-crowned	159
+parakeet grey-cheeked	55
+cockatoo lesser sulphur-crested	332
+parakeet budgerigar	37
+cockatiel	90
+parrot hawk-headed	232
+cockatiel	86
+parrot cape	413
+kea	651
+parrot greater vasa	471
+lory blue-streaked	165
+eclectus	409
+conure nanday	147
+parrot cape	227
+pionus bronze-winged	223
+conure queen of bavaria's	268
+conure orange-fronted	65
+macaw blue and gold	1289
+parrot pesquet's	373
+parakeet budgerigar	49
+cockatiel	99
+cockatoo umbrella	577
+parakeet alexandrine	261
+caique white-bellied	151
+conure sun	114
+macaw lear's	916
+parrot timneh grey	343
+ringneck african	111
+amazon yellow-billed	249
+canary	21
+caique black-headed	161
+cockatoo moluccan	648
+parakeet golden-manteled	83
+cockatoo umbrella	418
+cockatoo galah	345
+lory blue-streaked	163
+amazon yellow-billed	310
+amazon tres marias	472
+conure jenday	206
+parakeet moustache	119
+cockatoo galah	366
+conure queen of bavaria's	239
+parrot lesser vasa	282
+conure queen of bavaria's	293
+macaw hahn's	175
+saint vincent	477
+parakeet crimson rosella	136
+amazon yellow-fronted	398
+parakeet quaker	111
+conure greater patagonian	293
+cockatoo palm	673
+cockatoo rose-breasted	300
+parakeet plum-headed	86
+parrot brown-headed	168
+amazon mealy	444
+amazon yellow-fronted	437
+macaw green-winged	1736
+amazon spectacled	203
+macaw scarlet	896
+cockatoo goffin's	334
+conure blue-crowned	141
+macaw hahn's	147
+lory red	158
+cockatoo palm	834
+parakeet canary-winged	62
+conure queen of bavaria's	301
+parakeet bourke's	50
+lory red	147
+parakeet alexandrine	230
+amazon blue-fronted	272
+lory red	167
+cockatiel	104
+conure orange-fronted	69
+conure painted	53
+amazon red-lored	335
+macaw severe	396
+parrot great-billed	260
+lory rainbow	126
+conure jenday	141
+parrot hawk-headed	262
+cockatoo palm	959
+parrot brown-headed	120
+parrot great-billed	260
+caique black-headed	159
+conure white-eyed	125
+conure green-cheeked	72
+conure dusky	90
+parakeet plum-headed	96
+cockatoo galah	363
+macaw blue and gold	1263
+conure orange-fronted	96
+amazon blue-fronted	255
+conure red-masked	215
+parrot lesser vasa	276
+caique white-bellied	176
+parakeet grey-cheeked	56
+saint vincent	566
+parakeet golden-manteled	139
+kea	617
+parakeet derbyan	397
+cockatiel	118
+conure dusky	88
+macaw illiger's	338
+conure orange-fronted	69
+amazon lilac-crowned	442
+parakeet grey-cheeked	55
+eclectus	404
+conure mitred	216
+lory red	167
+parakeet grey-cheeked	55
+conure nanday	141
+parakeet red-rumped	68
+macaw scarlet	1098
+parakeet red-rumped	30
+amazon tucuman	322
+macaw noble	184
+eclectus	389
+parakeet bourke's	50
+cockatoo galah	348
+pionus white-capped	162
+parakeet crimson rosella	119
+lory blue-streaked	206
+parakeet red-rumped	57
+pionus bronze-winged	185
+red-fronted kakariki	91
+parakeet moustache	133
+amazon blue-fronted	255
+lory red	148
+parrot jardine's	190
+parakeet moustache	137
+macaw noble	205
+cockatoo lesser sulphur-crested	372
+amazon tucuman	317
+parakeet monk	163
+conure white-eyed	135
+lory rainbow	126
+parrot pesquet's	819
+zebra finch	16
+cockatoo gangang	330
+parrot greater vasa	402
+parrot great-billed	260
+cockatoo galah	362
+parrot pesquet's	670
+amazon xanthopterys	282
+cockatoo gangang	321
+eclectus	469
+parrot greater vasa	488
+amazon cuban	288
+macaw yellow-collared	249
+conure white-eyed	120
+amazon vinaceous	311
+parakeet quaker	91
+macaw red-fronted	530
+macaw military	818
+parrot red-bellied	125
+parakeet red-rumped	49
+macaw spix's	428
+amazon yellow-fronted	381
+amazon tucuman	316
+lory dusky	163
+cockatoo moluccan	744
+amazon spectacled	187
+parrotlet pacific	30
+conure nanday	142
+parrot red-bellied	128
+lovebird peach-faced	49
+conure white-eyed	120
+lory blue-streaked	239
+amazon red-lored	323
+parrot grey	493
+pionus bronze-winged	209
+parakeet bourke's	49
+parrot brown-headed	151
+conure dusky	88
+parakeet grey-cheeked	55
+lovebird peach-faced	54
+parrot meyer's	124
+macaw hahn's	131
+macaw noble	174
+amazon tres marias	520
+eclectus	391
+amazon yellow-shouldered	253
+conure nanday	134
+cockatoo moluccan	750
+cockatoo galah	355
+amazon yellow-billed	233
+parakeet budgerigar	38
+amazon spectacled	211
+parakeet monk	151
+macaw hahn's	137
+macaw green-winged	1593
+parrot hawk-headed	270
+lovebird masked	42
+amazon xanthopterys	380
+macaw severe	341
+cockatiel	90
+conure dusky	88
+conure orange-fronted	76
+parakeet red-rumped	50
+Pionus blue-headed	276
+parrot brown-headed	105
+parakeet grey-cheeked	55
+macaw scarlet	846
+conure jenday	102
+parrot lesser vasa	283
+macaw severe	348
+amazon tres marias	473
+parrot timneh grey	341
+amazon xanthopterys	513
+parrotlet pacific	31
+conure nanday	141
+lory red	200
+parakeet bourke's	50
+parrot grey	434
+kea	1124
+lory blue-streaked	129
+lovebird masked	44
+amazon xanthopterys	432
+parrot red-bellied	130
+parrot scarlet-chested	51
+macaw scarlet	1362
+parrot red-bellied	124
+cockatoo lesser sulphur-crested	357
+conure white-eyed	162
+macaw noble	170
+zebra finch	16
+parakeet quaker	97
+conure greater patagonian	345
+amazon blue-fronted	288
+parakeet derbyan	316
+parakeet budgerigar	31
+ringneck indian	106
+lory dusky	134
+cockatoo gangang	332
+macaw severe	274
+amazon blue-fronted	281
+ringneck african	90
+parrot cape	306
+amazon vinaceous	385
+parakeet moustache	133
+amazon orange-winged	554
+pionus dusky	303
+parakeet moustache	130
+parakeet plum-headed	111
+conure red-masked	220
+cockatoo greater sulphur-crested	804
+lory red	163
+kea	937
+macaw noble	202
+lovebird peach-faced	59
+parakeet moustache	125
+cockatoo palm	1077
+parrot lesser vasa	286
+parakeet quaker	110
+parakeet monk	153
+macaw noble	193
+cockatoo gangang	235
+eclectus	453
+lovebird masked	59
+cockatoo greater sulphur-crested	847
+macaw lear's	1056
+parrot timneh grey	357
+parrot pesquet's	1020
+parrot meyer's	111
+ringneck african	108
+conure mitred	203
+cockatiel	95
+parrot hawk-headed	164
+cockatoo rose-breasted	294
+cockatoo goffin's	369
+cockatoo rose-breasted	261
+parrotlet pacific	30
+conure jenday	139
+parrot pesquet's	873
+cockatoo lesser sulphur-crested	410
+amazon cuban	234
+parakeet crimson rosella	145
+macaw scarlet	1375
+cockatoo lesser sulphur-crested	349
+macaw scarlet	1224
+macaw red-fronted	514
+conure green-cheeked	71
+parakeet golden-manteled	100
+amazon tres marias	506
+parakeet derbyan	281
+caique black-headed	145
+macaw yellow-collared	319
+red-fronted kakariki	96
+cockatiel	80
+cockatoo galah	333
+parrot greater vasa	626
+amazon vinaceous	401
+lory blue-streaked	82
+lovebird masked	45
+amazon yellow-naped	600
+parrot grey	430
+cockatoo greater sulphur-crested	859
+macaw scarlet	1161
+conure dusky	93
+amazon blue-fronted	265
+cockatoo moluccan	802
+cockatoo palm	906
+conure jenday	69
+conure nanday	130
+conure orange-fronted	47
+cockatiel	101
+amazon lilac-crowned	484
+lory rainbow	132
+cockatoo rose-breasted	272
+amazon tres marias	469
+conure nanday	138
+parakeet plum-headed	86
+parakeet canary-winged	73
+lory chattering	190
+parrot pesquet's	570
+amazon red-lored	356
+conure blue-crowned	145
+pionus bronze-winged	249
+amazon yellow-shouldered	264
+cockatoo rose-breasted	253
+eclectus	450
+parrot lesser vasa	276
+macaw noble	176
+parrot meyer's	124
+parakeet golden-manteled	125
+lovebird peach-faced	51
+amazon lilac-crowned	328
+macaw noble	192
+amazon yellow-naped	526
+parakeet monk	155
+parrot lesser vasa	287
+conure queen of bavaria's	284
+amazon vinaceous	320
+red-fronted kakariki	108
+Pionus blue-headed	275
+conure white-eyed	153
+conure greater patagonian	300
+amazon blue-fronted	275
+amazon vinaceous	344
+cockatoo palm	884
+macaw hyacinthine	1285
+cockatoo umbrella	679
+parakeet alexandrine	255
+macaw hahn's	132
+cockatoo moluccan	701
+parakeet canary-winged	56
+macaw hyacinthine	1367
+conure painted	56
+parakeet grey-cheeked	55
+parakeet barraband's	148
+saint vincent	557
+conure green-cheeked	71
+parakeet quaker	92
+ringneck indian	112
+pionus dusky	179
+conure dusky	88
+parrot cape	243
+Pionus blue-headed	275
+conure jenday	175
+amazon tucuman	328
+conure queen of bavaria's	269
+amazon yellow-billed	232
+caique black-headed	171
+cockatoo greater sulphur-crested	1022
+cockatoo gangang	268
+pionus white-capped	192
+amazon tucuman	319
+lory red	174
+parakeet plum-headed	89
+conure mitred	207
+parakeet canary-winged	73
+kea	1089
+conure green-cheeked	68
+conure mitred	218
+caique black-headed	151
+conure nanday	127
+saint vincent	624
+amazon red-lored	342
+conure nanday	142
+cockatoo umbrella	490
+parakeet bourke's	50
+amazon yellow-shouldered	284
+parrot lesser vasa	278
+macaw green-winged	1291
+parrot red-bellied	125
+parakeet budgerigar	42
+conure orange-fronted	85
+conure red-masked	225
+macaw noble	183
+conure white-eyed	144
+amazon yellow-fronted	475
+amazon spectacled	216
+cockatoo greater sulphur-crested	829
+amazon yellow-billed	276
+cockatoo goffin's	275
+conure greater patagonian	328
+macaw military	922
+cockatoo goffin's	504
+parrot red-bellied	128
+parakeet plum-headed	97
+lory red	145
+macaw scarlet	1322
+parakeet moustache	115
+conure jenday	105
+macaw lear's	1066
+cockatoo goffin's	456
+parakeet quaker	93
+conure orange-fronted	81
+parakeet grey-cheeked	55
+cockatoo rose-breasted	294
+parrot scarlet-chested	44
+conure dusky	94
+parrot greater vasa	436
+cockatoo moluccan	624
+amazon red-lored	334
+parrot pesquet's	714
+amazon spectacled	205
+macaw severe	366
+cockatoo lesser sulphur-crested	327
+parrot lesser vasa	275
+amazon vinaceous	365
+amazon vinaceous	325
+cockatoo greater sulphur-crested	845
+amazon red-lored	339
+ringneck indian	131
+cockatoo lesser sulphur-crested	375
+amazon orange-winged	267
+cockatoo gangang	313
+pionus dusky	187
+lory blue-streaked	201
+pionus white-capped	202
+parakeet grey-cheeked	55
+parrotlet pacific	33
+cockatoo lesser sulphur-crested	334
+parrot meyer's	114
+cockatoo goffin's	323
+cockatoo rose-breasted	284
+canary	26
+amazon yellow-naped	610
+amazon spectacled	206
+lovebird peach-faced	56
+amazon cuban	235
+conure orange-fronted	86
+parakeet monk	152
+parrot pesquet's	569
+conure jenday	90
+cockatoo umbrella	569
+parrot cape	237
+conure jenday	137
+macaw hahn's	168
+cockatoo rose-breasted	303
+zebra finch	17
+macaw spix's	439
+macaw severe	394
+parrot scarlet-chested	39
+macaw severe	414
+lory blue-streaked	231
+conure blue-crowned	107
+macaw military	913
+cockatoo rose-breasted	301
+macaw hahn's	154
+parakeet crimson rosella	180
+parrot cape	236
+macaw yellow-collared	285
+parrot brown-headed	144
+parakeet canary-winged	63
+conure nanday	155
+parakeet quaker	97
+parrot grey	430
+saint vincent	755
+caique white-bellied	170
+parrot greater vasa	379
+parakeet monk	146
+cockatoo moluccan	652
+macaw hyacinthine	1328
+parakeet grey-cheeked	55
+lory dusky	165
+cockatoo palm	1009
+parakeet grey-cheeked	55
+kea	772
+canary	23
+parrot brown-headed	103
+conure nanday	139
+amazon tucuman	324
+lory red	185
+parakeet golden-manteled	113
+cockatoo galah	349
+amazon orange-winged	576
+parakeet canary-winged	91
+amazon blue-fronted	272
+Pionus blue-headed	234
+conure green-cheeked	69
+macaw scarlet	1322
+macaw noble	206
+parrot grey	483
+parrot red-bellied	127
+parakeet quaker	82
+parakeet golden-manteled	122
+kea	1078
+conure mitred	215
+Pionus blue-headed	284
+pionus bronze-winged	198
+parakeet canary-winged	70
+parrot timneh grey	326
+parakeet quaker	69
+conure dusky	92
+macaw hahn's	163
+conure dusky	87
+conure blue-crowned	180
+cockatoo greater sulphur-crested	945
+zebra finch	16
+conure dusky	92
+parakeet quaker	85
+conure dusky	93
+parrot brown-headed	137
+parrotlet pacific	34
+cockatiel	93
+eclectus	430
+saint vincent	536
+ringneck african	101
+conure queen of bavaria's	297
+parakeet red-rumped	61
+parakeet grey-cheeked	55
+Pionus blue-headed	217
+zebra finch	16
+parrot lesser vasa	287
+conure queen of bavaria's	271
+caique black-headed	150
+conure orange-fronted	82
+parrot greater vasa	420
+ringneck african	118
+parakeet moustache	116
+cockatoo palm	902
+caique white-bellied	161
+parrot brown-headed	75
+parrot lesser vasa	266
+amazon yellow-fronted	424
+macaw noble	196
+pionus white-capped	182
+parakeet budgerigar	42
+parrotlet pacific	34
+cockatoo moluccan	744
+cockatoo palm	788
+parakeet alexandrine	258
+conure queen of bavaria's	295
+cockatiel	89
+kea	852
+amazon mealy	407
+caique black-headed	144
+lovebird fisher's	57
+parrotlet pacific	34
+eclectus	422
+macaw scarlet	1238
+parrot brown-headed	88
+amazon red-lored	362
+saint vincent	579
+parrotlet pacific	32
+conure jenday	109
+lory rainbow	135
+parakeet monk	155
+parakeet barraband's	82
+parakeet crimson rosella	180
+parrot timneh grey	332
+saint vincent	559
+conure dusky	90
+parakeet barraband's	110
+cockatoo lesser sulphur-crested	413
+ringneck african	115
+lory chattering	118
+macaw green-winged	1694
+cockatoo moluccan	738
+parakeet plum-headed	80
+conure blue-crowned	110
+parakeet red-rumped	72
+cockatiel	86
+Pionus blue-headed	198
+macaw lear's	997
+parakeet bourke's	51
+Pionus blue-headed	282
+conure orange-fronted	60
+conure blue-crowned	149
+parrot brown-headed	146
+parakeet moustache	135
+amazon tres marias	540
+amazon red-lored	340
+conure orange-fronted	39
+parrot scarlet-chested	37
+eclectus	454
+cockatoo gangang	318
+macaw illiger's	281
+amazon lilac-crowned	335
+macaw hyacinthine	1142
+conure red-masked	222
+amazon cuban	239
+caique white-bellied	167
+parrot lesser vasa	263
+conure painted	52
+parrot senegal	164
+conure painted	60
+parakeet golden-manteled	111
+parrot cape	381
+parrot timneh grey	346
+cockatoo gangang	266
+cockatoo lesser sulphur-crested	290
+parrot jardine's	210
+parrot great-billed	260
+cockatoo rose-breasted	270
+cockatoo moluccan	812
+parakeet golden-manteled	119
+amazon yellow-fronted	420
+amazon lilac-crowned	314
+conure green-cheeked	74
+parakeet canary-winged	63
+amazon yellow-billed	281
+cockatoo rose-breasted	264
+parrot senegal	106
+parrot brown-headed	115
+eclectus	430
+amazon yellow-naped	621
+parrot greater vasa	594
+macaw severe	324
+macaw hyacinthine	1378
+caique black-headed	150
+parrotlet pacific	34
+amazon yellow-billed	293
+parrotlet pacific	33
+cockatoo goffin's	212
+parrot red-bellied	126
+cockatoo lesser sulphur-crested	312
+conure blue-crowned	184
+parakeet grey-cheeked	55
+macaw green-winged	1561
+amazon vinaceous	408
+cockatoo rose-breasted	251
+macaw lear's	732
+amazon tucuman	331
+lory blue-streaked	152
+pionus bronze-winged	239
+parakeet derbyan	261
+lovebird masked	52
+conure blue-crowned	137
+parakeet plum-headed	76
+conure dusky	89
+parakeet moustache	129
+cockatoo rose-breasted	280
+parakeet budgerigar	40
+amazon tres marias	458
+conure blue-crowned	162
+cockatoo rose-breasted	309
+macaw lear's	929
+parakeet bourke's	50
+amazon blue-fronted	279
+macaw noble	195
+conure white-eyed	180
+amazon tres marias	574
+parakeet grey-cheeked	55
+parakeet grey-cheeked	55
+parakeet bourke's	50
+parrot senegal	93
+lory dusky	131
+lory blue-streaked	136
+parakeet canary-winged	80
+amazon yellow-shouldered	258
+macaw illiger's	234
+amazon orange-winged	268
+conure jenday	114
+saint vincent	481
+macaw severe	315
+cockatoo lesser sulphur-crested	368
+parrotlet pacific	32
+conure nanday	142
+parakeet plum-headed	80
+parrot greater vasa	441
+conure nanday	135
+conure queen of bavaria's	239
+macaw noble	180
+cockatoo rose-breasted	288
+pionus bronze-winged	195
+parrot greater vasa	368
+eclectus	405
+cockatoo greater sulphur-crested	871
+cockatoo galah	344
+conure painted	54
+macaw green-winged	1859
+conure painted	48
+amazon orange-winged	469
+lory red	186
+parrot timneh grey	298
+conure blue-crowned	165
+macaw hyacinthine	1373
+cockatoo palm	879
+cockatoo greater sulphur-crested	878
+parrot red-bellied	130
+parrot grey	436
+cockatoo gangang	347
+Pionus blue-headed	184
+macaw military	963
+parakeet grey-cheeked	55
+conure dusky	87
+cockatoo galah	353
+caique black-headed	147
+parakeet crimson rosella	192
+ringneck african	94
+amazon blue-fronted	271
+parrot greater vasa	634
+amazon tres marias	472
+amazon yellow-shouldered	268
+macaw blue and gold	1310
+cockatoo galah	361
+lory red	189
+conure queen of bavaria's	242
+amazon tres marias	491
+parrot senegal	114
+cockatoo moluccan	728
+parrot grey	439
+macaw green-winged	1608
+parakeet budgerigar	34
+parakeet grey-cheeked	55
+macaw illiger's	300
+lory blue-streaked	141
+macaw green-winged	1458
+parrot timneh grey	335
+parrot scarlet-chested	39
+parakeet red-rumped	69
+parakeet moustache	140
+parakeet moustache	130
+parakeet bourke's	50
+parakeet red-rumped	62
+parrot red-bellied	123
+macaw hahn's	193
+amazon vinaceous	324
+parakeet derbyan	325
+cockatoo moluccan	665
+macaw blue and gold	1256
+cockatoo gangang	252
+parakeet canary-winged	64
+macaw noble	182
+parakeet crimson rosella	180
+macaw noble	197
+parakeet grey-cheeked	55
+parrot brown-headed	140
+parrot brown-headed	115
+parakeet moustache	130
+eclectus	412
+cockatoo galah	334
+macaw noble	173
+parrot senegal	97
+parakeet crimson rosella	179
+lory red	195
+caique white-bellied	177
+parakeet golden-manteled	76
+parakeet budgerigar	33
+parakeet grey-cheeked	55
+conure painted	65
+amazon vinaceous	392
+parakeet budgerigar	39
+parrot grey	480
+lory red	184
+conure dusky	94
+cockatoo gangang	256
+amazon blue-fronted	298
+conure orange-fronted	56
+parakeet red-rumped	42
+parakeet crimson rosella	131
+macaw severe	280
+amazon yellow-fronted	345
+parrot grey	419
+conure nanday	127
+conure lesser patagonian	265
+parakeet monk	148
+conure orange-fronted	73
+lory dusky	181
+parakeet red-rumped	53
+lory dusky	181
+amazon tres marias	507
+ringneck indian	123
+parrot lesser vasa	281
+parrotlet pacific	34
+parrot meyer's	109
+macaw green-winged	1391
+pionus white-capped	178
+cockatoo lesser sulphur-crested	343
+parakeet grey-cheeked	55
+conure nanday	144
+macaw military	860
+parrot grey	497
+ringneck african	96
+eclectus	332
+parakeet grey-cheeked	55
+conure lesser patagonian	203
+amazon yellow-fronted	473
+kea	846
+cockatoo palm	1082
+pionus bronze-winged	214
+lory red	167
+parrot hawk-headed	267
+amazon yellow-shouldered	251
+lory rainbow	131
+parrot jardine's	243
+Pionus blue-headed	236
+conure blue-crowned	152
+parakeet grey-cheeked	55
+cockatoo moluccan	718
+parakeet bourke's	49
+parakeet red-rumped	70
+lory blue-streaked	206
+conure white-eyed	116
+conure dusky	89
+pionus bronze-winged	215
+lory dusky	162
+parakeet red-rumped	72
+cockatoo greater sulphur-crested	829
+conure mitred	198
+ringneck african	104
+cockatoo galah	305
+ringneck indian	101
+ringneck african	105
+macaw noble	194
+parrot senegal	128
+parakeet plum-headed	77
+cockatoo rose-breasted	280
+eclectus	437
+conure blue-crowned	180
+conure queen of bavaria's	277
+macaw noble	218
+lory chattering	258
+amazon vinaceous	428
+parrot pesquet's	806
+lory blue-streaked	75
+parrot jardine's	212
+amazon blue-fronted	291
+macaw military	886
+kea	1271
+lovebird fisher's	46
+parakeet grey-cheeked	55
+parrot cape	162
+Pionus blue-headed	223
+parakeet canary-winged	74
+parakeet plum-headed	83
+macaw lear's	932
+parakeet grey-cheeked	55
+lory blue-streaked	165
+amazon vinaceous	356
+macaw lear's	844
+parrot senegal	123
+macaw severe	361
+parakeet canary-winged	59
+parrot red-bellied	124
+amazon tucuman	328
+conure painted	50
+conure orange-fronted	62
+parrot pesquet's	508
+parakeet alexandrine	248
+cockatoo lesser sulphur-crested	375
+cockatoo galah	337
+parakeet bourke's	50
+amazon cuban	245
+parrot jardine's	143
+lovebird peach-faced	63
+pionus white-capped	178
+conure greater patagonian	293
+parakeet red-rumped	59
+ringneck african	109
+kea	866
+parakeet moustache	118
+macaw lear's	687
+conure queen of bavaria's	285
+parakeet bourke's	50
+parrot brown-headed	99
+eclectus	432
+parrot cape	286
+macaw hyacinthine	1355
+conure lesser patagonian	247
+macaw spix's	311
+cockatoo umbrella	389
+conure white-eyed	138
+saint vincent	632
+macaw spix's	275
+parrot pesquet's	718
+lovebird peach-faced	63
+amazon red-lored	339
+ringneck african	107
+zebra finch	17
+kea	991
+lovebird fisher's	48
+cockatoo moluccan	709
+lovebird peach-faced	68
+macaw spix's	355
+pionus dusky	167
+parrotlet pacific	34
+conure blue-crowned	136
+lovebird peach-faced	26
+parrot brown-headed	87
+amazon orange-winged	752
+lovebird fisher's	44
+conure jenday	156
+macaw hahn's	171
+red-fronted kakariki	103
+parakeet red-rumped	76
+macaw scarlet	770
+lovebird fisher's	38
+conure blue-crowned	142
+parrot lesser vasa	260
+parakeet crimson rosella	136
+macaw hahn's	138
+macaw red-fronted	519
+macaw lear's	872
+conure nanday	146
+parakeet budgerigar	44
+parakeet moustache	131
+caique black-headed	151
+conure green-cheeked	76
+amazon xanthopterys	721
+parakeet bourke's	51
+kea	1074
+amazon yellow-fronted	438
+macaw scarlet	810
+amazon tres marias	492
+macaw lear's	687
+macaw illiger's	204
+parakeet monk	150
+parrot grey	483
+conure queen of bavaria's	266
+lory dusky	163
+parrot great-billed	260
+parakeet crimson rosella	118
+cockatoo lesser sulphur-crested	384
+parrot grey	425
+cockatoo umbrella	545
+conure orange-fronted	86
+amazon mealy	636
+parakeet plum-headed	77
+parakeet crimson rosella	160
+zebra finch	16
+cockatoo rose-breasted	297
+amazon spectacled	212
+lory dusky	161
+ringneck african	100
+Pionus blue-headed	274
+parakeet red-rumped	59
+conure greater patagonian	281
+macaw blue and gold	1269
+conure nanday	130
+amazon mealy	755
+cockatoo rose-breasted	290
+amazon red-lored	325
+conure blue-crowned	174
+parrot lesser vasa	284
+saint vincent	594
+macaw hahn's	153
+lory blue-streaked	246
+parakeet grey-cheeked	55
+conure dusky	89
+lory blue-streaked	230
+conure red-masked	166
+parrot brown-headed	132
+lory red	137
+caique white-bellied	168
+parrot pesquet's	824
+amazon orange-winged	406
+lory dusky	136
+parakeet bourke's	50
+parakeet alexandrine	236
+Pionus blue-headed	251
+macaw illiger's	243
+conure nanday	139
+conure greater patagonian	287
+parrot pesquet's	642
+amazon vinaceous	445
+lovebird peach-faced	52
+macaw green-winged	1487
+lovebird fisher's	48
+macaw hyacinthine	1281
+conure dusky	87
+parrot greater vasa	484
+conure orange-fronted	91
+parakeet canary-winged	50
+macaw lear's	1036
+conure blue-crowned	107
+conure white-eyed	142
+macaw scarlet	636
+macaw hahn's	141
+conure nanday	139
+macaw illiger's	260
+cockatoo galah	357
+macaw yellow-collared	208
+macaw spix's	481
+Pionus blue-headed	228
+eclectus	407
+conure blue-crowned	125
+parakeet plum-headed	86
+conure jenday	157
+macaw green-winged	1346
+caique black-headed	166
+red-fronted kakariki	126
+amazon tres marias	505
+macaw noble	206
+parrot meyer's	110
+amazon yellow-billed	287
+parakeet alexandrine	252
+conure blue-crowned	160
+macaw scarlet	1099
+conure greater patagonian	317
+caique white-bellied	177
+parakeet crimson rosella	145
+amazon cuban	266
+parrot scarlet-chested	43
+conure painted	54
+parrotlet pacific	33
+cockatoo rose-breasted	285
+cockatoo galah	366
+lovebird masked	43
+parakeet quaker	102
+parrot scarlet-chested	45
+conure lesser patagonian	284
+parakeet bourke's	51
+parrot meyer's	113
+parrot lesser vasa	298
+lovebird peach-faced	81
+parakeet golden-manteled	156
+parakeet bourke's	50
+parrot grey	516
+amazon yellow-billed	315
+conure green-cheeked	70
+lory blue-streaked	175
+parrot jardine's	160
+conure lesser patagonian	237
+cockatoo lesser sulphur-crested	328
+amazon lilac-crowned	399
+macaw noble	196
+parrot hawk-headed	263
+ringneck african	103
+cockatoo rose-breasted	284
+parakeet quaker	95
+parrot jardine's	221
+cockatoo moluccan	806
+parrot greater vasa	435
+amazon blue-fronted	282
+parakeet quaker	34
+cockatoo lesser sulphur-crested	339
+lory blue-streaked	172
+macaw scarlet	1056
+conure dusky	89
+amazon yellow-fronted	401
+macaw scarlet	1254
+cockatiel	94
+caique white-bellied	153
+amazon tucuman	326
+parakeet bourke's	51
+cockatoo goffin's	348
+amazon yellow-fronted	410
+saint vincent	649
+parrotlet pacific	32
+conure queen of bavaria's	316
+cockatoo lesser sulphur-crested	364
+macaw illiger's	285
+caique white-bellied	146
+amazon tucuman	310
+cockatiel	75
+lovebird peach-faced	59
+caique white-bellied	183
+parrot jardine's	183
+amazon orange-winged	418
+saint vincent	721
+lory chattering	266
+cockatoo lesser sulphur-crested	309
+parakeet alexandrine	267
+conure blue-crowned	166
+conure dusky	90
+cockatoo goffin's	406
+amazon vinaceous	340
+amazon blue-fronted	309
+kea	620
+parakeet bourke's	50
+saint vincent	703
+Pionus blue-headed	170
+conure greater patagonian	332
+conure dusky	89
+lovebird peach-faced	75
+cockatoo rose-breasted	280
+conure mitred	149
+amazon tucuman	334
+lory red	190
+cockatoo goffin's	448
+parrot scarlet-chested	32
+conure lesser patagonian	222
+parrot greater vasa	382
+cockatoo rose-breasted	284
+parakeet bourke's	50
+conure jenday	90
+cockatoo greater sulphur-crested	973
+lovebird peach-faced	79
+caique white-bellied	167
+parakeet canary-winged	75
+parakeet alexandrine	247
+lory blue-streaked	197
+parrot meyer's	126
+conure lesser patagonian	228
+cockatoo umbrella	744
+lory red	150
+parakeet quaker	94
+macaw noble	178
+kea	1143
+amazon blue-fronted	269
+macaw spix's	418
+parakeet plum-headed	91
+conure orange-fronted	92
+canary	14
+parakeet canary-winged	64
+caique white-bellied	198
+macaw blue and gold	1256
+parakeet monk	168
+macaw severe	336
+cockatoo rose-breasted	268
+cockatoo palm	1253
+amazon yellow-billed	391
+macaw hahn's	148
+macaw red-fronted	525
+parrotlet pacific	32
+parakeet red-rumped	50
+saint vincent	513
+canary	22
+conure jenday	80
+ringneck african	98
+parrot scarlet-chested	39
+parrot jardine's	197
+parakeet quaker	78
+amazon blue-fronted	259
+pionus dusky	166
+parrot great-billed	260
+parakeet crimson rosella	124
+ringneck african	112
+parrot cape	317
+cockatoo palm	1094
+conure red-masked	213
+amazon yellow-billed	170
+caique white-bellied	158
+parrot senegal	138
+macaw illiger's	251
+amazon yellow-fronted	343
+parrot timneh grey	342
+parakeet grey-cheeked	55
+cockatoo galah	348
+ringneck african	98
+amazon lilac-crowned	399
+conure jenday	102
+parakeet plum-headed	102
+parrot scarlet-chested	36
+ringneck african	95
+caique white-bellied	151
+lory red	146
+parrot red-bellied	120
+conure orange-fronted	92
+macaw scarlet	1067
+parakeet grey-cheeked	55
+parakeet red-rumped	57
+macaw hahn's	151
+parakeet grey-cheeked	55
+conure green-cheeked	71
+amazon orange-winged	387
+conure queen of bavaria's	281
+conure orange-fronted	79
+parrot hawk-headed	284
+cockatoo galah	365
+conure greater patagonian	325
+parrot grey	471
+macaw military	991
+conure green-cheeked	69
+parrot pesquet's	889
+lory blue-streaked	182
+macaw hyacinthine	1277
+lovebird peach-faced	62
+cockatoo galah	354
+ringneck indian	120
+lory chattering	145
+macaw yellow-collared	296
+macaw severe	347
+amazon orange-winged	416
+parrot great-billed	260
+cockatoo umbrella	560
+conure queen of bavaria's	214
+macaw severe	415
+amazon blue-fronted	289
+macaw military	774
+conure red-masked	203
+macaw military	779
+ringneck indian	111
+parakeet red-rumped	65
+macaw noble	199
+macaw hahn's	170
+parakeet red-rumped	70
+macaw illiger's	242
+parakeet derbyan	327
+conure painted	65
+cockatoo moluccan	690
+parrot greater vasa	513
+parrot cape	247
+amazon cuban	228
+macaw lear's	874
+parakeet golden-manteled	92
+parrot grey	493
+zebra finch	17
+parakeet monk	157
+conure queen of bavaria's	269
+macaw green-winged	1146
+amazon cuban	265
+eclectus	407
+amazon orange-winged	587
+macaw blue and gold	1277
+parrotlet pacific	34
+parakeet quaker	137
+conure green-cheeked	68
+amazon tucuman	310
+parakeet crimson rosella	160
+parrot senegal	119
+macaw hyacinthine	1300
+eclectus	449
+eclectus	424
+parrot hawk-headed	267
+amazon cuban	252
+parrot cape	285
+amazon vinaceous	302
+cockatiel	118
+amazon vinaceous	335
+conure blue-crowned	193
+amazon tucuman	318
+cockatoo goffin's	327
+parrot cape	293
+conure nanday	144
+conure sun	115
+parrot greater vasa	559
+lovebird masked	35
+amazon yellow-naped	597
+parrot lesser vasa	294
+parrot timneh grey	310
+ringneck indian	106
+parrotlet pacific	34
+parakeet canary-winged	79
+amazon yellow-fronted	557
+parrot grey	417
+parrot meyer's	122
+lory dusky	186
+parrot lesser vasa	289
+parakeet barraband's	109
+canary	24
+parrot greater vasa	510
+parakeet monk	160
+parrot pesquet's	768
+parakeet monk	144
+conure nanday	136
+parakeet crimson rosella	140
+amazon yellow-billed	294
+parakeet monk	138
+parrot grey	491
+zebra finch	17
+lory dusky	155
+parrot scarlet-chested	41
+parrot hawk-headed	294
+eclectus	410
+eclectus	468
+amazon spectacled	188
+conure nanday	127
+cockatoo goffin's	351
+amazon mealy	685
+parrot cape	187
+macaw military	1012
+parrot lesser vasa	301
+cockatoo umbrella	442
+macaw scarlet	957
+cockatoo rose-breasted	312
+conure white-eyed	177
+lory chattering	241
+macaw yellow-collared	184
+pionus dusky	242
+conure blue-crowned	183
+amazon lilac-crowned	257
+conure jenday	112
+conure painted	60
+cockatoo galah	335
+cockatoo galah	357
+cockatoo goffin's	392
+conure painted	61
+lory red	171
+amazon yellow-naped	597
+amazon vinaceous	346
+lory red	126
+saint vincent	718
+lovebird peach-faced	30
+saint vincent	572
+amazon mealy	630
+parakeet plum-headed	97
+eclectus	402
+amazon spectacled	227
+parakeet derbyan	293
+lory dusky	153
+parrot grey	405
+cockatoo goffin's	322
+parakeet grey-cheeked	55
+conure blue-crowned	165
+amazon yellow-fronted	496
+saint vincent	493
+amazon vinaceous	345
+parrot meyer's	136
+parrot senegal	147
+parakeet canary-winged	71
+amazon lilac-crowned	241
+parrot brown-headed	145
+conure queen of bavaria's	267
+parrot senegal	126
+amazon mealy	784
+macaw noble	193
+caique black-headed	161
+conure jenday	127
+amazon vinaceous	385
+amazon spectacled	205
+eclectus	404
+macaw severe	339
+macaw severe	393
+parrotlet pacific	34
+macaw scarlet	929
+macaw green-winged	1085
+ringneck african	103
+cockatoo moluccan	721
+conure sun	113
+parrot greater vasa	444
+cockatoo umbrella	348
+cockatoo rose-breasted	270
+amazon yellow-shouldered	215
+lovebird peach-faced	57
+conure nanday	138
+cockatoo lesser sulphur-crested	325
+caique white-bellied	175
+macaw spix's	261
+macaw illiger's	321
+conure painted	59
+parrot hawk-headed	238
+pionus bronze-winged	262
+parakeet grey-cheeked	55
+lovebird masked	69
+parakeet bourke's	49
+macaw spix's	468
+cockatoo rose-breasted	304
+parakeet canary-winged	83
+amazon yellow-shouldered	260
+caique black-headed	173
+macaw spix's	445
+caique white-bellied	174
+cockatoo rose-breasted	294
+parakeet moustache	130
+kea	1013
+macaw noble	180
+macaw blue and gold	1286
+parakeet plum-headed	82
+macaw red-fronted	534
+caique black-headed	151
+conure dusky	91
+parrot red-bellied	124
+conure jenday	167
+pionus white-capped	145
+parrot greater vasa	707
+cockatoo lesser sulphur-crested	351
+cockatoo goffin's	422
+parakeet canary-winged	65
+caique white-bellied	168
+macaw illiger's	267
+parrot great-billed	260
+ringneck african	125
+amazon green-cheeked	253
+lory chattering	223
+parrotlet pacific	33
+lory blue-streaked	151
+parrotlet pacific	35
+conure greater patagonian	423
+amazon tres marias	466
+macaw military	1160
+parakeet quaker	79
+parrot timneh grey	319
+macaw green-winged	1815
+parrot cape	292
+red-fronted kakariki	124
+lory blue-streaked	192
+macaw noble	183
+macaw military	929
+parrot timneh grey	341
+Pionus blue-headed	232
+parrot pesquet's	696
+macaw blue and gold	1310
+kea	845
+macaw lear's	817
+amazon tres marias	570
+macaw severe	426
+amazon yellow-billed	254
+conure blue-crowned	133
+parakeet canary-winged	49
+parakeet monk	149
+amazon mealy	490
+amazon spectacled	222
+macaw hyacinthine	1345
+parakeet plum-headed	90
+amazon cuban	251
+parrot jardine's	242
+amazon yellow-billed	234
+macaw severe	315
+cockatoo galah	332
+ringneck african	91
+pionus dusky	218
+amazon cuban	192
+parrot senegal	107
+lovebird fisher's	36
+parakeet crimson rosella	110
+conure mitred	182
+amazon vinaceous	390
+lovebird masked	57
+parakeet alexandrine	272
+kea	1132
+cockatoo gangang	234
+pionus dusky	193
+macaw military	885
+parrot lesser vasa	279
+macaw military	766
+parakeet bourke's	50
+conure queen of bavaria's	282
+cockatoo rose-breasted	304
+parrotlet pacific	33
+Pionus blue-headed	268
+parakeet quaker	87
+macaw severe	321
+pionus bronze-winged	233
+caique white-bellied	164
+parrot timneh grey	342
+conure nanday	149
+cockatoo galah	369
+amazon mealy	754
+parakeet grey-cheeked	55
+parakeet budgerigar	34
+conure jenday	142
+cockatoo palm	812
+amazon vinaceous	403
+conure mitred	207
+parakeet quaker	90
+parakeet canary-winged	70
+conure queen of bavaria's	298
+saint vincent	429
+conure red-masked	244
+pionus white-capped	187
+parrot hawk-headed	235
+conure jenday	128
+caique black-headed	167
+macaw red-fronted	528
+conure sun	118
+amazon red-lored	358
+conure sun	116
+parakeet red-rumped	71
+conure mitred	234
+amazon xanthopterys	321
+parakeet moustache	124
+amazon tucuman	336
+parakeet bourke's	50
+amazon blue-fronted	276
+amazon blue-fronted	267
+caique black-headed	153
+parakeet plum-headed	79
+cockatoo rose-breasted	257
+parrot grey	485
+ringneck african	102
+parrot great-billed	260
+macaw scarlet	1002
+parrot greater vasa	556
+amazon yellow-billed	288
+amazon vinaceous	352
+conure sun	116
+amazon vinaceous	338
+red-fronted kakariki	110
+canary	27
+parrot red-bellied	123
+macaw green-winged	1680
+conure painted	59
+amazon yellow-shouldered	273
+conure blue-crowned	161
+caique black-headed	161
+parakeet barraband's	114
+eclectus	445
+parrot greater vasa	479
+cockatoo palm	748
+parakeet canary-winged	73
+lovebird peach-faced	28
+parrot timneh grey	367
+conure red-masked	184
+parrot red-bellied	132
+cockatoo palm	660
+amazon yellow-billed	310
+amazon yellow-shouldered	245
+parakeet canary-winged	83
+cockatoo greater sulphur-crested	893
+parrot grey	447
+lovebird peach-faced	50
+parakeet monk	141
+conure red-masked	180
+Pionus blue-headed	246
+amazon blue-fronted	243
+Pionus blue-headed	233
+conure green-cheeked	72
+parrot hawk-headed	294
+macaw hahn's	139
+parrotlet pacific	30
+parrot grey	484
+amazon tres marias	570
+parakeet crimson rosella	129
+cockatoo gangang	320
+conure sun	113
+macaw green-winged	1347
+conure painted	52
+parrot jardine's	206
+caique black-headed	141
+cockatoo moluccan	735
+parakeet budgerigar	46
+parrotlet pacific	33
+eclectus	384
+conure sun	117
+pionus bronze-winged	170
+cockatoo umbrella	464
+parakeet crimson rosella	136
+macaw illiger's	263
+cockatiel	103
+conure blue-crowned	143
+lory red	173
+cockatoo rose-breasted	295
+parrotlet pacific	31
+cockatoo goffin's	229
+parakeet canary-winged	64
+lory red	175
+parakeet bourke's	51
+amazon mealy	658
+parrot grey	464
+conure orange-fronted	62
+macaw hyacinthine	1337
+conure jenday	87
+amazon yellow-billed	277
+cockatoo rose-breasted	288
+cockatoo umbrella	725
+macaw spix's	245
+conure dusky	90
+parakeet plum-headed	83
+amazon yellow-naped	616
+conure jenday	132
+parakeet barraband's	135
+lory dusky	188
+conure blue-crowned	152
+amazon blue-fronted	287
+conure dusky	88
+caique white-bellied	196
+macaw military	834
+amazon mealy	654
+parrot senegal	123
+amazon yellow-billed	307
+parrot grey	488
+lory dusky	167
+conure queen of bavaria's	266
+parakeet derbyan	317
+macaw noble	185
+parakeet bourke's	49
+saint vincent	591
+parakeet derbyan	351
+amazon yellow-naped	561
+saint vincent	584
+amazon spectacled	206
+macaw hahn's	194
+parrot brown-headed	133
+parakeet bourke's	50
+macaw severe	377
+saint vincent	619
+macaw red-fronted	516
+parakeet grey-cheeked	55
+conure dusky	90
+macaw scarlet	631
+amazon spectacled	198
+amazon tres marias	512
+parrot red-bellied	125
+macaw scarlet	1096
+cockatoo lesser sulphur-crested	380
+parakeet budgerigar	23
+amazon cuban	254
+parakeet crimson rosella	156
+conure green-cheeked	70
+cockatoo moluccan	725
+parrotlet pacific	32
+lory blue-streaked	162
+parakeet canary-winged	67
+parrot grey	432
+amazon orange-winged	540
+parakeet quaker	95
+lory red	173
+conure painted	57
+parrot pesquet's	887
+kea	1376
+parrot red-bellied	128
+cockatoo gangang	215
+cockatoo goffin's	476
+conure green-cheeked	68
+conure painted	55
+macaw hahn's	132
+parakeet canary-winged	75
+amazon yellow-shouldered	268
+parrot grey	413
+parrot brown-headed	90
+amazon cuban	217
+macaw military	886
+amazon yellow-billed	99
+eclectus	374
+saint vincent	555
+lory dusky	173
+parakeet golden-manteled	105
+cockatiel	147
+cockatoo galah	360
+parrot red-bellied	125
+parakeet plum-headed	80
+ringneck african	109
+caique black-headed	151
+saint vincent	496
+amazon vinaceous	363
+lovebird masked	51
+macaw illiger's	307
+amazon orange-winged	399
+parrot senegal	123
+amazon yellow-billed	295
+parakeet crimson rosella	160
+amazon yellow-billed	252
+amazon blue-fronted	280
+parrot pesquet's	730
+lory dusky	118
+parrot cape	265
+macaw green-winged	1488
+amazon mealy	946
+parakeet budgerigar	39
+Pionus blue-headed	218
+lory red	184
+amazon yellow-naped	521
+macaw blue and gold	1353
+conure blue-crowned	141
+conure orange-fronted	67
+parrotlet pacific	35
+parrot grey	445
+pionus bronze-winged	219
+cockatoo gangang	215
+conure jenday	144
+cockatoo greater sulphur-crested	949
+parakeet crimson rosella	173
+caique white-bellied	178
+conure jenday	128
+amazon mealy	594
+conure red-masked	195
+parakeet quaker	115
+lory red	194
+parakeet moustache	124
+kea	1268
+pionus bronze-winged	245
+parakeet quaker	77
+lory blue-streaked	178
+parakeet red-rumped	70
+conure blue-crowned	133
+conure painted	61
+amazon vinaceous	377
+parakeet monk	147
+conure queen of bavaria's	306
+parakeet derbyan	343
+parakeet crimson rosella	139
+parrot great-billed	260
+amazon tres marias	454
+amazon xanthopterys	542
+cockatoo galah	366
+conure blue-crowned	150
+amazon orange-winged	555
+parrot lesser vasa	299
+parrot scarlet-chested	35
+parakeet red-rumped	47
+Pionus blue-headed	234
+amazon tres marias	468
+canary	23
+macaw red-fronted	549
+macaw green-winged	1475
+amazon yellow-billed	267
+parrot cape	139
+parrot greater vasa	510
+lory dusky	128
+amazon tucuman	320
+conure painted	59
+conure queen of bavaria's	245
+macaw noble	175
+amazon vinaceous	402
+lory chattering	189
+conure orange-fronted	58
+macaw military	712
+pionus bronze-winged	223
+parrot greater vasa	473
+canary	20
+parakeet quaker	101
+parrot grey	503
+cockatoo rose-breasted	266
+macaw scarlet	1019
+parakeet bourke's	49
+parakeet golden-manteled	65
+parrot great-billed	260
+caique white-bellied	151
+lory dusky	137
+parakeet plum-headed	87
+parrotlet pacific	32
+ringneck african	101
+kea	791
+red-fronted kakariki	105
+parakeet grey-cheeked	55
+parakeet quaker	79
+amazon blue-fronted	291
+conure blue-crowned	153
+eclectus	404
+conure jenday	113
+parakeet golden-manteled	124
+macaw hyacinthine	1313
+caique black-headed	159
+parrot meyer's	104
+conure dusky	94
+conure greater patagonian	355
+parrot greater vasa	656
+conure dusky	93
+pionus dusky	153
+parrot red-bellied	129
+amazon green-cheeked	255
+lovebird fisher's	50
+macaw severe	348
+Pionus blue-headed	218
+cockatoo gangang	323
+conure jenday	178
+conure orange-fronted	45
+macaw blue and gold	1268
+amazon yellow-fronted	446
+parakeet red-rumped	48
+cockatoo palm	975
+cockatoo palm	945
+amazon cuban	200
+conure greater patagonian	289
+parakeet barraband's	176
+lory blue-streaked	191
+parrotlet pacific	34
+conure dusky	91
+amazon red-lored	377
+cockatoo gangang	352
+lory red	177
+amazon yellow-naped	620
+parrot jardine's	209
+lovebird peach-faced	48
+macaw green-winged	1249
+parakeet monk	142
+macaw military	987
+amazon red-lored	323
+amazon yellow-fronted	444
+cockatoo galah	340
+conure queen of bavaria's	271
+lory blue-streaked	195
+parrot meyer's	123
+pionus dusky	265
+caique black-headed	166
+Pionus blue-headed	201
+parakeet grey-cheeked	55
+parakeet derbyan	331
+parakeet quaker	76
+lory rainbow	130
+macaw military	922
+amazon mealy	610
+parrot timneh grey	334
+macaw hyacinthine	1304
+parakeet red-rumped	61
+conure nanday	138
+parakeet moustache	131
+parakeet plum-headed	94
+macaw spix's	349
+parakeet red-rumped	80
+cockatoo gangang	309
+parakeet quaker	70
+parrot senegal	83
+eclectus	405
+amazon tres marias	485
+amazon xanthopterys	642
+parakeet barraband's	169
+ringneck african	104
+macaw hyacinthine	1318
+macaw military	970
+amazon blue-fronted	267
+macaw illiger's	293
+conure nanday	136
+amazon tres marias	529
+amazon yellow-fronted	314
+amazon xanthopterys	615
+canary	21
+parakeet golden-manteled	107
+parrot lesser vasa	262
+parrot pesquet's	975
+pionus bronze-winged	197
+saint vincent	775
+parrot cape	367
+amazon tucuman	308
+macaw green-winged	1082
+parrot meyer's	115
+lory red	173
+parrot pesquet's	659
+parrot brown-headed	133
+lory rainbow	128
+conure greater patagonian	305
+parrot timneh grey	364
+eclectus	447
+parakeet monk	145
+lory rainbow	133
+cockatoo rose-breasted	276
+parrot red-bellied	126
+kea	1106
+amazon spectacled	211
+conure dusky	87
+amazon spectacled	224
+parakeet plum-headed	80
+macaw noble	210
+amazon vinaceous	301
+parakeet moustache	127
+pionus white-capped	159
+parrot pesquet's	774
+parakeet budgerigar	35
+parakeet plum-headed	78
+parrot pesquet's	919
+parrot timneh grey	338
+Pionus blue-headed	170
+parakeet moustache	144
+parakeet quaker	90
+macaw spix's	423
+lovebird fisher's	54
+cockatoo galah	344
+lovebird masked	28
+amazon orange-winged	304
+parakeet alexandrine	241
+kea	1128
+parakeet quaker	81
+lory rainbow	130
+parrotlet pacific	33
+lory dusky	171
+parrot grey	445
+cockatoo galah	330
+Pionus blue-headed	235
+amazon tres marias	453
+ringneck indian	107
+macaw lear's	970
+amazon yellow-billed	267
+amazon lilac-crowned	395
+macaw noble	183
+macaw illiger's	325
+lory red	160
+conure painted	51
+kea	829
+caique black-headed	128
+parakeet bourke's	49
+parakeet plum-headed	89
+parrot red-bellied	124
+cockatoo moluccan	765
+amazon orange-winged	511
+lovebird fisher's	43
+amazon green-cheeked	281
+parrot lesser vasa	287
+macaw military	1035
+cockatoo moluccan	689
+cockatoo palm	975
+cockatiel	82
+parakeet moustache	126
+lovebird masked	61
+cockatoo lesser sulphur-crested	337
+macaw noble	205
+lory chattering	245
+macaw military	1091
+amazon cuban	192
+macaw noble	203
+parakeet moustache	141
+cockatoo galah	354
+cockatoo moluccan	733
+conure queen of bavaria's	271
+amazon vinaceous	346
+amazon blue-fronted	262
+parrotlet pacific	34
+pionus bronze-winged	223
+parakeet derbyan	300
+caique black-headed	157
+conure lesser patagonian	210
+cockatoo umbrella	608
+parakeet crimson rosella	124
+amazon mealy	694
+lory red	186
+parakeet canary-winged	67
+eclectus	387
+amazon cuban	239
+amazon mealy	545
+parrot scarlet-chested	45
+amazon cuban	257
+eclectus	357
+parakeet red-rumped	59
+amazon cuban	248
+pionus bronze-winged	218
+parrot grey	448
+macaw lear's	1117
+cockatoo lesser sulphur-crested	334
+conure green-cheeked	71
+cockatoo galah	325
+conure white-eyed	167
+lory blue-streaked	97
+lory blue-streaked	93
+ringneck african	108
+conure orange-fronted	64
+amazon yellow-naped	572
+macaw hahn's	160
+parakeet red-rumped	72
+parakeet derbyan	303
+cockatoo gangang	295
+cockatoo rose-breasted	261
+parrot pesquet's	587
+conure queen of bavaria's	251
+cockatoo rose-breasted	289
+parrot jardine's	139
+parakeet moustache	135
+canary	28
+lovebird peach-faced	42
+conure queen of bavaria's	284
+cockatoo rose-breasted	286
+conure queen of bavaria's	286
+parakeet bourke's	51
+conure dusky	93
+conure white-eyed	162
+parakeet barraband's	132
+cockatoo palm	992
+cockatiel	62
+conure dusky	87
+saint vincent	514
+caique white-bellied	180
+ringneck african	104
+parakeet canary-winged	50
+pionus white-capped	177
+parakeet monk	139
+amazon red-lored	331
+macaw green-winged	922
+parakeet canary-winged	93
+parrot brown-headed	108
+conure queen of bavaria's	232
+zebra finch	16
+parakeet red-rumped	40
+lory red	161
+parakeet grey-cheeked	54
+red-fronted kakariki	102
+parakeet barraband's	120
+kea	971
+macaw red-fronted	535
+cockatoo moluccan	775
+conure green-cheeked	70
+macaw lear's	986
+conure jenday	95
+lovebird peach-faced	42
+parrot grey	435
+amazon tres marias	532
+parakeet monk	149
+conure painted	62
+macaw hahn's	161
+parrot timneh grey	349
+amazon yellow-shouldered	258
+cockatoo palm	559
+conure red-masked	232
+amazon spectacled	207
+macaw lear's	984
+macaw spix's	549
+parrot lesser vasa	288
+cockatoo rose-breasted	251
+caique black-headed	167
+cockatiel	103
+cockatoo rose-breasted	278
+caique black-headed	150
+parrot greater vasa	388
+parakeet crimson rosella	185
+amazon tres marias	461
+conure green-cheeked	70
+kea	896
+parakeet canary-winged	49
+saint vincent	702
+parrot pesquet's	772
+amazon spectacled	195
+ringneck indian	97
+macaw green-winged	1371
+amazon yellow-shouldered	258
+lovebird fisher's	52
+conure mitred	257
+caique black-headed	162
+parakeet bourke's	50
+lory red	177
+parakeet quaker	88
+macaw noble	180
+lory rainbow	132
+parrot senegal	61
+parrotlet pacific	33
+conure white-eyed	124
+lovebird peach-faced	51
+parrot greater vasa	500
+amazon red-lored	317
+parakeet alexandrine	261
+conure orange-fronted	86
+parakeet bourke's	49
+canary	23
+saint vincent	591
+macaw hyacinthine	1351
+macaw noble	185
+amazon spectacled	195
+parrot timneh grey	335
+cockatoo moluccan	722
+caique white-bellied	161
+macaw lear's	989
+lovebird masked	65
+conure nanday	134
+cockatoo gangang	329
+lory red	151
+ringneck indian	124
+conure nanday	152
+lory dusky	178
+saint vincent	588
+parrot cape	320
+amazon tres marias	492
+amazon tres marias	485
+amazon yellow-fronted	480
+parrot meyer's	123
+conure blue-crowned	168
+amazon spectacled	193
+conure blue-crowned	133
+lovebird fisher's	40
+ringneck african	115
+parakeet bourke's	50
+parakeet monk	147
+amazon tucuman	311
+macaw yellow-collared	304
+parakeet red-rumped	41
+parakeet crimson rosella	138
+cockatoo palm	1060
+amazon xanthopterys	618
+eclectus	416
+cockatoo lesser sulphur-crested	306
+parakeet crimson rosella	138
+amazon yellow-fronted	391
+conure red-masked	221
+lory rainbow	127
+canary	16
+cockatoo moluccan	722
+cockatoo lesser sulphur-crested	382
+cockatoo lesser sulphur-crested	363
+cockatiel	109
+eclectus	484
+cockatoo galah	330
+kea	1004
+macaw military	779
+cockatoo rose-breasted	271
+parakeet plum-headed	83
+amazon blue-fronted	249
+parrot scarlet-chested	42
+conure orange-fronted	88
+Pionus blue-headed	204
+lory chattering	287
+parrot greater vasa	478
+parakeet moustache	138
+kea	1027
+amazon lilac-crowned	351
+cockatoo galah	347
+amazon tres marias	496
+amazon xanthopterys	577
+parrot red-bellied	126
+lovebird peach-faced	61
+conure dusky	93
+amazon blue-fronted	280
+macaw scarlet	810
+lory rainbow	130
+red-fronted kakariki	98
+conure nanday	135
+parrot brown-headed	85
+saint vincent	496
+macaw red-fronted	520
+macaw severe	320
+parrot senegal	138
+cockatoo palm	873
+parrotlet pacific	34
+amazon red-lored	351
+parrotlet pacific	34
+parakeet plum-headed	108
+kea	761
+amazon spectacled	204
+macaw illiger's	251
+canary	18
+macaw noble	169
+parrotlet pacific	35
+amazon yellow-shouldered	215
+amazon tres marias	487
+conure blue-crowned	141
+pionus bronze-winged	216
+amazon tucuman	301
+parakeet bourke's	51
+conure blue-crowned	146
+conure jenday	131
+conure white-eyed	139
+parakeet grey-cheeked	55
+macaw yellow-collared	97
+ringneck african	104
+parakeet derbyan	319
+ringneck african	94
+macaw green-winged	1647
+parakeet quaker	97
+conure queen of bavaria's	251
+caique black-headed	166
+macaw noble	203
+ringneck african	94
+parakeet derbyan	363
+conure nanday	147
+parrot scarlet-chested	48
+conure blue-crowned	155
+conure nanday	139
+ringneck indian	122
+amazon blue-fronted	290
+macaw noble	190
+conure lesser patagonian	254
+amazon tucuman	324
+parrot jardine's	239
+cockatoo palm	858
+cockatoo greater sulphur-crested	872
+conure green-cheeked	70
+conure orange-fronted	72
+parrot meyer's	113
+lovebird fisher's	62
+cockatiel	98
+macaw red-fronted	518
+conure dusky	89
+lovebird masked	46
+macaw lear's	801
+parrot pesquet's	781
+macaw green-winged	1221
+parakeet canary-winged	53
+conure blue-crowned	168
+amazon yellow-billed	213
+amazon yellow-fronted	433
+ringneck indian	111
+lory red	149
+parrot pesquet's	726
+ringneck african	108
+parrot greater vasa	393
+parakeet bourke's	50
+parakeet quaker	80
+amazon lilac-crowned	477
+lory blue-streaked	114
+macaw hyacinthine	1283
+pionus white-capped	167
+lory rainbow	129
+cockatoo goffin's	197
+conure queen of bavaria's	267
+lovebird peach-faced	48
+eclectus	429
+amazon spectacled	196
+caique black-headed	164
+ringneck african	93
+conure nanday	141
+caique white-bellied	171
+macaw illiger's	239
+parakeet moustache	141
+parrot scarlet-chested	35
+parrot grey	454
+macaw green-winged	825
+pionus dusky	114
+macaw noble	196
+lory rainbow	133
+cockatoo palm	1082
+lory blue-streaked	144
+lory red	171
+lory red	144
+amazon orange-winged	398
+parrot brown-headed	60
+parrot greater vasa	480
+amazon tres marias	499
+parakeet canary-winged	91
+parrot cape	388
+parrot jardine's	309
+macaw hahn's	189
+parrot red-bellied	128
+parakeet grey-cheeked	56
+amazon yellow-billed	276
+lovebird peach-faced	53
+amazon vinaceous	340
+parakeet bourke's	50
+Pionus blue-headed	206
+macaw hahn's	212
+macaw military	876
+canary	17
+amazon blue-fronted	260
+amazon red-lored	358
+cockatoo lesser sulphur-crested	321
+amazon blue-fronted	269
+parrot greater vasa	427
+parakeet grey-cheeked	55
+caique black-headed	139
+parrot scarlet-chested	42
+red-fronted kakariki	102
+Pionus blue-headed	191
+parakeet bourke's	50
+parrot brown-headed	142
+macaw military	917
+conure green-cheeked	71
+macaw green-winged	1478
+Pionus blue-headed	234
+parrot lesser vasa	274
+amazon tres marias	498
+conure painted	59
+conure painted	63
+macaw scarlet	942
+macaw green-winged	1704
+amazon yellow-fronted	500
+macaw illiger's	237
+macaw hahn's	186
+pionus dusky	142
+macaw scarlet	1094
+conure white-eyed	149
+parakeet barraband's	101
+amazon xanthopterys	398
+parakeet quaker	70
+amazon yellow-shouldered	243
+parakeet red-rumped	54
+amazon mealy	719
+amazon xanthopterys	528
+parrot timneh grey	316
+macaw noble	204
+cockatoo goffin's	273
+amazon yellow-billed	322
+macaw hahn's	163
+conure orange-fronted	76
+caique black-headed	135
+amazon mealy	665
+cockatoo gangang	272
+lory blue-streaked	114
+parrot senegal	172
+macaw hyacinthine	1365
+parakeet bourke's	50
+amazon green-cheeked	260
+cockatoo greater sulphur-crested	794
+cockatoo lesser sulphur-crested	364
+macaw spix's	395
+parrot grey	451
+amazon lilac-crowned	389
+parakeet red-rumped	48
+saint vincent	485
+saint vincent	598
+parakeet alexandrine	295
+conure orange-fronted	78
+cockatoo moluccan	695
+parakeet barraband's	140
+cockatoo goffin's	281
+macaw illiger's	287
+cockatoo gangang	240
+macaw yellow-collared	194
+parrotlet pacific	31
+cockatoo galah	351
+parakeet budgerigar	46
+parrot pesquet's	962
+parrot senegal	87
+parrot brown-headed	120
+amazon yellow-naped	601
+parrot lesser vasa	291
+red-fronted kakariki	98
+parakeet grey-cheeked	55
+parrot pesquet's	885
+cockatoo gangang	304
+conure jenday	124
+amazon mealy	481
+cockatoo gangang	252
+parrot brown-headed	147
+kea	1276
+cockatoo rose-breasted	270
+amazon tres marias	513
+parakeet red-rumped	64
+parrot senegal	70
+lovebird masked	38
+conure white-eyed	160
+macaw hahn's	169
+parakeet plum-headed	96
+parrot red-bellied	125
+parakeet canary-winged	57
+Pionus blue-headed	254
+macaw blue and gold	1307
+macaw hahn's	162
+cockatoo gangang	186
+amazon mealy	715
+amazon tres marias	495
+lory red	154
+parrot grey	447
+macaw scarlet	864
+kea	1136
+cockatoo rose-breasted	263
+lovebird masked	49
+red-fronted kakariki	119
+parakeet quaker	87
+amazon tucuman	313
+ringneck african	108
+conure sun	111
+macaw illiger's	218
+macaw military	844
+saint vincent	498
+conure queen of bavaria's	266
+parakeet canary-winged	73
+amazon tres marias	437
+pionus bronze-winged	147
+macaw scarlet	982
+parakeet golden-manteled	67
+parrotlet pacific	35
+amazon mealy	685
+amazon red-lored	346
+cockatoo gangang	282
+conure painted	53
+macaw noble	202
+parakeet canary-winged	70
+parakeet golden-manteled	94
+parakeet plum-headed	98
+eclectus	393
+conure queen of bavaria's	270
+cockatoo rose-breasted	297
+macaw military	1134
+amazon yellow-naped	610
+lory red	220
+conure dusky	90
+macaw noble	175
+cockatoo gangang	267
+parakeet golden-manteled	99
+parrot brown-headed	122
+macaw military	915
+parakeet derbyan	355
+macaw scarlet	1011
+pionus dusky	146
+amazon yellow-shouldered	283
+cockatoo gangang	270
+amazon orange-winged	270
+amazon blue-fronted	303
+amazon tucuman	314
+parrot lesser vasa	284
+lory chattering	254
+macaw yellow-collared	227
+amazon yellow-naped	504
+parakeet grey-cheeked	55
+parrot grey	466
+parrot lesser vasa	281
+eclectus	454
+macaw noble	191
+parrot cape	240
+macaw hahn's	171
+parakeet golden-manteled	143
+conure queen of bavaria's	260
+amazon cuban	264
+ringneck african	110
+conure dusky	88
+parakeet moustache	135
+parakeet grey-cheeked	55
+parrot senegal	94
+Pionus blue-headed	237
+amazon yellow-billed	214
+parrot grey	433
+parrot red-bellied	126
+lovebird peach-faced	65
+parrotlet pacific	35
+lovebird peach-faced	37
+conure queen of bavaria's	269
+conure white-eyed	111
+cockatiel	77
+parakeet red-rumped	92
+parrot greater vasa	649
+parrot cape	263
+parrot red-bellied	130
+cockatoo goffin's	421
+amazon spectacled	203
+parakeet monk	158
+parrot brown-headed	177
+pionus white-capped	183
+parrot pesquet's	899
+parrot red-bellied	130
+macaw scarlet	1129
+Pionus blue-headed	218
+pionus bronze-winged	238
+macaw hyacinthine	1389
+caique black-headed	154
+cockatoo lesser sulphur-crested	378
+amazon blue-fronted	241
+cockatoo goffin's	360
+amazon mealy	510
+cockatoo moluccan	709
+conure blue-crowned	152
+canary	27
+caique black-headed	157
+parakeet red-rumped	55
+amazon yellow-fronted	334
+parrot red-bellied	122
+amazon vinaceous	339
+lory chattering	159
+macaw scarlet	625
+pionus white-capped	188
+conure queen of bavaria's	291
+pionus dusky	177
+conure dusky	89
+macaw noble	184
+conure queen of bavaria's	248
+amazon blue-fronted	263
+conure queen of bavaria's	282
+parrot lesser vasa	279
+macaw red-fronted	516
+conure sun	113
+lory red	147
+amazon green-cheeked	233
+macaw green-winged	1356
+Pionus blue-headed	243
+caique white-bellied	155
+lovebird masked	42
+parrot timneh grey	351
+amazon tucuman	319
+lory blue-streaked	195
+lory red	176
+Pionus blue-headed	362
+conure green-cheeked	68
+cockatoo rose-breasted	296
+lovebird masked	28
+red-fronted kakariki	58
+conure mitred	195
+eclectus	464
+parrot great-billed	260
+parrot greater vasa	522
+parakeet monk	147
+parakeet red-rumped	40
+amazon tucuman	326
+conure dusky	88
+amazon green-cheeked	296
+parakeet budgerigar	26
+parrot lesser vasa	284
+lory red	152
+parakeet red-rumped	54
+conure green-cheeked	72
+canary	30
+parakeet canary-winged	79
+conure queen of bavaria's	264
+amazon tres marias	574
+zebra finch	15
+macaw red-fronted	509
+cockatoo galah	349
+pionus dusky	212
+saint vincent	624
+conure dusky	92
+parakeet crimson rosella	171
+parrot pesquet's	718
+conure mitred	183
+saint vincent	401
+amazon vinaceous	345
+conure mitred	186
+conure green-cheeked	69
+conure queen of bavaria's	270
+parakeet barraband's	143
+conure queen of bavaria's	262
+amazon yellow-fronted	414
+amazon tres marias	494
+lovebird masked	46
+ringneck african	105
+parakeet derbyan	327
+red-fronted kakariki	110
+saint vincent	648
+cockatiel	72
+amazon red-lored	376
+parakeet moustache	127
+parakeet barraband's	137
+amazon lilac-crowned	308
+amazon mealy	420
+cockatoo rose-breasted	283
+macaw hyacinthine	1274
+parrot cape	313
+conure greater patagonian	292
+parrotlet pacific	34
+parrot red-bellied	123
+conure blue-crowned	130
+conure red-masked	165
+kea	1099
+lovebird peach-faced	53
+amazon tres marias	567
+lovebird masked	52
+macaw severe	268
+parakeet quaker	79
+conure blue-crowned	150
+conure blue-crowned	109
+macaw hahn's	146
+amazon yellow-fronted	543
+eclectus	457
+ringneck african	98
+conure mitred	184
+pionus white-capped	189
+cockatiel	93
+caique black-headed	192
+amazon spectacled	198
+cockatoo gangang	286
+cockatoo rose-breasted	278
+macaw yellow-collared	221
+lovebird peach-faced	49
+amazon spectacled	198
+parrotlet pacific	34
+parakeet bourke's	50
+cockatoo rose-breasted	261
+lovebird peach-faced	58
+amazon tucuman	320
+amazon mealy	573
+amazon spectacled	219
+conure blue-crowned	144
+amazon yellow-shouldered	235
+conure nanday	140
+macaw hyacinthine	1354
+parrot meyer's	108
+parakeet alexandrine	242
+conure green-cheeked	72
+parrot timneh grey	338
+ringneck african	112
+amazon tres marias	465
+parakeet crimson rosella	145
+lory dusky	136
+lory rainbow	128
+conure queen of bavaria's	295
+lory chattering	235
+parrot lesser vasa	287
+parakeet plum-headed	97
+amazon mealy	690
+lory blue-streaked	160
+parakeet bourke's	50
+amazon blue-fronted	263
+conure greater patagonian	370
+amazon cuban	249
+conure painted	60
+parrot jardine's	220
+conure jenday	150
+conure dusky	92
+lory blue-streaked	221
+conure green-cheeked	70
+lory rainbow	131
+parakeet plum-headed	97
+macaw red-fronted	552
+canary	26
+conure blue-crowned	146
+lory dusky	131
+macaw severe	351
+cockatoo moluccan	760
+cockatoo rose-breasted	272
+macaw illiger's	239
+amazon vinaceous	362
+parrot greater vasa	492
+macaw hahn's	182
+amazon xanthopterys	440
+conure orange-fronted	68
+macaw red-fronted	484
+parakeet canary-winged	71
+parakeet monk	135
+lory red	189
+saint vincent	643
+canary	11
+cockatoo gangang	300
+cockatoo palm	747
+conure sun	111
+parrot pesquet's	712
+amazon orange-winged	529
+conure dusky	94
+conure sun	114
+parakeet barraband's	107
+macaw severe	322
+parrot cape	246
+conure queen of bavaria's	284
+lovebird peach-faced	50
+macaw scarlet	1039
+amazon yellow-fronted	384
+zebra finch	16
+parrot meyer's	123
+lovebird peach-faced	40
+conure jenday	102
+cockatoo rose-breasted	299
+amazon lilac-crowned	380
+parakeet quaker	80
+macaw yellow-collared	179
+cockatoo lesser sulphur-crested	331
+parakeet bourke's	51
+cockatoo rose-breasted	302
+conure green-cheeked	69
+amazon green-cheeked	282
+macaw spix's	249
+parakeet golden-manteled	66
+cockatiel	97
+macaw severe	380
+amazon cuban	216
+lory red	138
+parakeet alexandrine	256
+macaw yellow-collared	258
+parakeet crimson rosella	132
+parrot pesquet's	698
+lovebird masked	58
+cockatoo umbrella	436
+amazon red-lored	414
+cockatiel	99
+cockatoo galah	336
+lovebird peach-faced	51
+amazon green-cheeked	266
+parakeet red-rumped	59
+kea	1058
+parrotlet pacific	31
+macaw hyacinthine	1310
+amazon yellow-shouldered	308
+parrot senegal	111
+macaw noble	196
+lory chattering	191
+parakeet bourke's	50
+amazon cuban	222
+macaw red-fronted	555
+conure nanday	143
+pionus dusky	185
+conure green-cheeked	72
+conure sun	116
+conure white-eyed	128
+lory blue-streaked	187
+amazon spectacled	203
+amazon cuban	248
+caique white-bellied	181
+eclectus	401
+macaw hyacinthine	1266
+conure queen of bavaria's	244
+macaw yellow-collared	252
+conure green-cheeked	69
+cockatiel	88
+parrot hawk-headed	256
+canary	27
+amazon mealy	460
+parrot grey	455
+parakeet quaker	117
+parakeet budgerigar	54
+parrot lesser vasa	285
+parakeet red-rumped	57
+amazon red-lored	367
+amazon lilac-crowned	337
+conure nanday	148
+parakeet barraband's	165
+macaw spix's	325
+lory dusky	159
+lovebird peach-faced	65
+parakeet golden-manteled	77
+parrot greater vasa	389
+pionus white-capped	182
+parakeet crimson rosella	166
+conure greater patagonian	284
+Pionus blue-headed	201
+amazon yellow-shouldered	325
+parrot greater vasa	508
+parrot pesquet's	646
+cockatoo rose-breasted	296
+amazon yellow-billed	209
+parrot jardine's	193
+conure sun	116
+amazon yellow-fronted	450
+parakeet barraband's	144
+parakeet canary-winged	103
+lovebird peach-faced	65
+amazon yellow-fronted	387
+parrotlet pacific	33
+parakeet canary-winged	60
+amazon tres marias	578
+amazon mealy	645
+parakeet derbyan	302
+conure nanday	151
+lovebird fisher's	53
+conure sun	116
+amazon xanthopterys	585
+cockatoo gangang	349
+parrotlet pacific	30
+kea	1065
+parrot jardine's	246
+amazon vinaceous	366
+canary	21
+amazon yellow-fronted	441
+amazon spectacled	198
+cockatoo moluccan	834
+parrot lesser vasa	284
+lory dusky	163
+conure blue-crowned	156
+macaw hahn's	159
+parrot cape	408
+parakeet canary-winged	68
+amazon xanthopterys	414
+amazon yellow-billed	374
+amazon blue-fronted	246
+parrotlet pacific	32
+macaw noble	184
+amazon yellow-shouldered	238
+conure jenday	120
+parakeet alexandrine	256
+conure jenday	119
+amazon xanthopterys	641
+parakeet moustache	133
+amazon lilac-crowned	400
+caique white-bellied	178
+cockatoo rose-breasted	254
+kea	1279
+amazon mealy	572
+Pionus blue-headed	232
+Pionus blue-headed	228
+cockatoo greater sulphur-crested	833
+parrotlet pacific	33
+macaw hahn's	153
+amazon yellow-shouldered	246
+parrot scarlet-chested	43
+parakeet moustache	122
+parrot grey	438
+pionus dusky	230
+eclectus	455
+saint vincent	668
+kea	854
+amazon yellow-shouldered	205
+pionus bronze-winged	209
+cockatoo palm	580
+saint vincent	866
+lory red	161
+parrot greater vasa	467
+macaw noble	205
+conure lesser patagonian	265
+parrot greater vasa	330
+Pionus blue-headed	283
+parrot lesser vasa	275
+parrot jardine's	246
+conure orange-fronted	72
+parrot lesser vasa	269
+parakeet canary-winged	68
+parakeet bourke's	49
+parrot meyer's	116
+parrot lesser vasa	283
+macaw military	942
+macaw severe	339
+macaw red-fronted	519
+cockatoo palm	709
+parrot grey	429
+kea	1202
+cockatiel	80
+amazon tucuman	312
+macaw blue and gold	1285
+conure orange-fronted	56
+amazon green-cheeked	281
+cockatoo rose-breasted	255
+amazon tres marias	506
+parrot senegal	128
+eclectus	424
+parakeet crimson rosella	146
+amazon yellow-shouldered	300
+amazon mealy	768
+amazon mealy	796
+lovebird peach-faced	41
+saint vincent	448
+kea	1194
+lovebird masked	54
+conure orange-fronted	64
+cockatiel	72
+parrotlet pacific	32
+saint vincent	602
+cockatoo greater sulphur-crested	916
+cockatoo galah	324
+parrot meyer's	116
+conure queen of bavaria's	247
+macaw red-fronted	524
+amazon lilac-crowned	286
+amazon green-cheeked	280
+macaw lear's	720
+parrot scarlet-chested	44
+parrot meyer's	111
+parakeet plum-headed	70
+pionus white-capped	185
+kea	1086
+lovebird peach-faced	59
+cockatoo greater sulphur-crested	886
+conure lesser patagonian	266
+amazon lilac-crowned	246
+parakeet golden-manteled	89
+conure queen of bavaria's	233
+macaw hahn's	152
+conure queen of bavaria's	244
+zebra finch	17
+macaw green-winged	1803
+kea	834
+macaw hyacinthine	1340
+conure jenday	163
+parakeet quaker	51
+parrot timneh grey	318
+eclectus	414
+conure red-masked	213
+macaw noble	175
+pionus dusky	168
+cockatiel	107
+ringneck african	118
+eclectus	401
+parrot timneh grey	321
+parrot jardine's	180
+parrot grey	453
+amazon lilac-crowned	378
+parakeet canary-winged	81
+lovebird fisher's	55
+parakeet quaker	90
+lovebird peach-faced	42
+parakeet plum-headed	83
+conure sun	113
+parrot greater vasa	433
+lory blue-streaked	121
+parrotlet pacific	35
+cockatoo umbrella	581
+lovebird masked	52
+parrot greater vasa	559
+parrot lesser vasa	287
+cockatoo galah	322
+conure green-cheeked	72
+conure dusky	92
+caique white-bellied	153
+lovebird peach-faced	70
+macaw illiger's	328
+conure green-cheeked	74
+conure queen of bavaria's	268
+lory red	163
+amazon tres marias	497
+parrot timneh grey	321
+amazon yellow-shouldered	278
+amazon tres marias	509
+parrot pesquet's	523
+ringneck african	103
+parakeet red-rumped	65
+lovebird peach-faced	55
+macaw green-winged	1501
+conure greater patagonian	323
+cockatoo palm	963
+cockatoo galah	339
+pionus dusky	218
+parakeet red-rumped	51
+parakeet monk	179
+parakeet canary-winged	78
+conure green-cheeked	74
+lovebird peach-faced	67
+cockatoo umbrella	520
+cockatoo moluccan	783
+cockatoo moluccan	842
+cockatiel	94
+parrot cape	270
+macaw illiger's	282
+cockatoo moluccan	698
+lory blue-streaked	196
+lory blue-streaked	184
+lory red	163
+parrot hawk-headed	268
+conure blue-crowned	154
+cockatoo lesser sulphur-crested	345
+cockatoo gangang	315
+parakeet golden-manteled	105
+lovebird fisher's	50
+amazon tucuman	334
+parrotlet pacific	32
+cockatoo greater sulphur-crested	839
+parakeet red-rumped	57
+ringneck african	96
+eclectus	457
+amazon red-lored	345
+parrot red-bellied	124
+lory blue-streaked	157
+amazon yellow-naped	556
+conure painted	47
+conure sun	119
+conure painted	59
+amazon green-cheeked	271
+amazon yellow-fronted	348
+parakeet red-rumped	46
+kea	1032
+amazon orange-winged	614
+conure dusky	91
+parrotlet pacific	31
+cockatoo goffin's	226
+parrot grey	429
+conure lesser patagonian	269
+macaw spix's	413
+lovebird masked	58
+conure jenday	123
+parakeet derbyan	288
+macaw blue and gold	1279
+parrotlet pacific	33
+macaw blue and gold	1294
+amazon red-lored	355
+parrot greater vasa	354
+cockatoo goffin's	419
+parakeet alexandrine	259
+amazon blue-fronted	263
+pionus white-capped	165
+lovebird masked	47
+Pionus blue-headed	211
+red-fronted kakariki	115
+lory blue-streaked	200
+saint vincent	726
+lory dusky	139
+cockatoo goffin's	126
+cockatoo moluccan	755
+cockatoo umbrella	458
+parakeet moustache	134
+amazon spectacled	207
+canary	31
+parakeet golden-manteled	89
+amazon blue-fronted	235
+parrot grey	464
+amazon yellow-billed	271
+lovebird masked	40
+pionus bronze-winged	205
+parakeet grey-cheeked	55
+conure painted	51
+parrot senegal	127
+cockatoo galah	310
+parakeet barraband's	90
+caique white-bellied	157
+parrot brown-headed	95
+eclectus	406
+caique white-bellied	159
+macaw green-winged	1963
+lovebird fisher's	55
+caique black-headed	171
+caique white-bellied	157
+conure queen of bavaria's	259
+conure nanday	137
+caique black-headed	150
+macaw lear's	765
+lory dusky	161
+amazon yellow-fronted	340
+saint vincent	531
+kea	1023
+parakeet derbyan	292
+lory dusky	134
+ringneck african	99
+parrot pesquet's	845
+conure jenday	79
+cockatoo gangang	316
+conure dusky	88
+amazon yellow-billed	213
+parrot senegal	81
+Pionus blue-headed	251
+ringneck indian	134
+conure queen of bavaria's	248
+parakeet plum-headed	101
+macaw spix's	442
+cockatoo rose-breasted	276
+parakeet budgerigar	49
+conure mitred	209
+conure jenday	91
+conure dusky	88
+cockatoo galah	354
+cockatoo rose-breasted	312
+parrot red-bellied	126
+macaw red-fronted	532
+parrot red-bellied	124
+conure blue-crowned	147
+cockatoo gangang	323
+macaw hahn's	141
+macaw yellow-collared	303
+parrot lesser vasa	276
+conure dusky	91
+lory red	175
+parrot scarlet-chested	31
+parakeet moustache	136
+parakeet bourke's	50
+amazon cuban	285
+conure greater patagonian	254
+parakeet budgerigar	48
+lovebird peach-faced	58
+conure white-eyed	110
+lory dusky	205
+conure jenday	111
+conure white-eyed	152
+amazon tres marias	481
+parrot red-bellied	122
+Pionus blue-headed	254
+lory blue-streaked	215
+conure green-cheeked	73
+parrot greater vasa	461
+conure painted	49
+parrot pesquet's	764
+conure jenday	95
+parrot red-bellied	123
+amazon tres marias	455
+parrot grey	436
+parakeet derbyan	336
+amazon vinaceous	376
+macaw scarlet	1229
+amazon yellow-fronted	428
+parakeet budgerigar	39
+pionus dusky	179
+amazon vinaceous	418
+parakeet plum-headed	89
+parrot red-bellied	122
+conure jenday	59
+parakeet red-rumped	72
+parrot timneh grey	310
+lory dusky	153
+parrot scarlet-chested	42
+conure orange-fronted	82
+parakeet red-rumped	73
+parrot hawk-headed	246
+parrot brown-headed	103
+lory blue-streaked	165
+macaw illiger's	199
+macaw hahn's	156
+macaw scarlet	879
+kea	967
+cockatoo rose-breasted	275
+macaw lear's	929
+conure green-cheeked	69
+caique black-headed	171
+parrot pesquet's	843
+macaw red-fronted	538
+conure nanday	133
+macaw hahn's	155
+parrot timneh grey	330
+parrot pesquet's	682
+parakeet canary-winged	73
+macaw illiger's	285
+amazon yellow-fronted	335
+lory red	166
+conure green-cheeked	72
+conure painted	60
+caique black-headed	162
+parakeet bourke's	50
+ringneck indian	124
+parakeet moustache	123
+parakeet moustache	122
+parakeet derbyan	349
+conure white-eyed	118
+saint vincent	674
+macaw green-winged	1522
+pionus bronze-winged	240
+amazon orange-winged	257
+amazon tucuman	328
+amazon red-lored	370
+parrot pesquet's	728
+parrot timneh grey	324
+ringneck african	96
+cockatoo greater sulphur-crested	945
+conure jenday	61
+cockatoo gangang	234
+cockatoo goffin's	377
+cockatoo gangang	236
+lory blue-streaked	141
+amazon yellow-shouldered	289
+cockatoo gangang	343
+lory blue-streaked	175
+Pionus blue-headed	189
+ringneck african	102
+parakeet quaker	95
+macaw severe	383
+parrot greater vasa	575
+parakeet plum-headed	95
+parakeet crimson rosella	147
+cockatoo greater sulphur-crested	953
+ringneck african	100
+parrot greater vasa	566
+cockatoo lesser sulphur-crested	291
+conure red-masked	193
+saint vincent	566
+amazon red-lored	341
+amazon orange-winged	449

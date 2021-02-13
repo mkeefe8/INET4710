@@ -1,0 +1,41 @@
+No configs found; falling back on auto-configuration
+No configs specified for inline runner
+Running step 1 of 1...
+Creating temp directory /var/folders/_1/fxb9k2bn4nd6m6bs0y0gw2s00000gn/T/mapreduce.marykeefe.20190223.141159.931247
+
+Error while reading from /var/folders/_1/fxb9k2bn4nd6m6bs0y0gw2s00000gn/T/mapreduce.marykeefe.20190223.141159.931247/step/000/mapper/00000/input:
+
+Traceback (most recent call last):
+  File "mapreduce.py", line 51, in <module>
+    stdev.run()
+  File "/anaconda3/lib/python3.7/site-packages/mrjob/job.py", line 438, in run
+    mr_job.execute()
+  File "/anaconda3/lib/python3.7/site-packages/mrjob/job.py", line 465, in execute
+    super(MRJob, self).execute()
+  File "/anaconda3/lib/python3.7/site-packages/mrjob/launch.py", line 190, in execute
+    self.run_job()
+  File "/anaconda3/lib/python3.7/site-packages/mrjob/launch.py", line 235, in run_job
+    runner.run()
+  File "/anaconda3/lib/python3.7/site-packages/mrjob/runner.py", line 510, in run
+    self._run()
+  File "/anaconda3/lib/python3.7/site-packages/mrjob/sim.py", line 149, in _run
+    self._run_mappers_and_combiners(step_num, map_splits)
+  File "/anaconda3/lib/python3.7/site-packages/mrjob/sim.py", line 190, in _run_mappers_and_combiners
+    for task_num, map_split in enumerate(map_splits)
+  File "/anaconda3/lib/python3.7/site-packages/mrjob/sim.py", line 125, in _run_multiple
+    func()
+  File "/anaconda3/lib/python3.7/site-packages/mrjob/sim.py", line 689, in _run_mapper_and_combiner
+    run_mapper()
+  File "/anaconda3/lib/python3.7/site-packages/mrjob/sim.py", line 712, in _run_task
+    stdin, stdout, stderr, wd, env)
+  File "/anaconda3/lib/python3.7/site-packages/mrjob/inline.py", line 122, in invoke_task
+    task.execute()
+  File "/anaconda3/lib/python3.7/site-packages/mrjob/job.py", line 453, in execute
+    self.run_mapper(self.options.step_num)
+  File "/anaconda3/lib/python3.7/site-packages/mrjob/job.py", line 528, in run_mapper
+    for k, v in self.map_pairs(read_lines(), step_num=step_num):
+  File "/anaconda3/lib/python3.7/site-packages/mrjob/job.py", line 598, in map_pairs
+    for k, v in mapper(key, value) or ():
+  File "mapreduce.py", line 14, in mapper1
+    words[-1] = float(words[-1])
+ValueError: could not convert string to float: 'steps'

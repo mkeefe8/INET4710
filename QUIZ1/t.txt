@@ -1,0 +1,5 @@
+"amazon",1
+"amazon",2
+b,3
+c,5
+c,2

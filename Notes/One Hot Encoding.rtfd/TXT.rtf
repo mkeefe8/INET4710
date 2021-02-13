@@ -1,0 +1,71 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf0 \ul \ulc0 One Hot Encoding\
+\
+\
+https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/\
+\
+
+\b0 \ulnone Many ML algorithms require that data need to be in numerical form, not categorical form\
+\
+(Constraint of efficient implementation of ML algorithms rather than hard limitations the algorithms themselves)\
+\
+So must convert categorical data to numerical form.\
+If the categorical variables is an output variable, may also want to convert predictions by the model\
+	back into a categorical form in order to present them or to use them in some application\
+\
+Two steps in converting Categorical Data to Numerical Data:\
+	1. Integer Encoding\
+	2. One-hot encoding\
+\
+\
+
+\b 1. Integer Encoding\
+
+\b0  Each new unique category values is assigned an integer value\
+\'93Red\'94 = 1, \'93green\'94 = 2, \'93blue\'94 = 3, etc.\
+\
+For ordinal variables (with rank) this encoding may be sufficient\
+\
+
+\b 2. One-Hot Encoding\
+
+\b0 for categorical variables with no ordinal relationship - the integer encoding is not enough and may actually give incorrect results (predictions halfway between categories)or poor performance in the ML algorithms as the ML algorithm will assume a natural ordering with the numbers\
+\
+One-hot encoding: integer variable is removed and a new binary variable is added for each unique integer value\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 {{\NeXTGraphic Pasted Graphic.tiff \width4960 \height1920 \appleattachmentpadding0 \appleembedtype0 \appleaqc
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+\
+
+\b \ul Logistic Regression\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\b0 \cf0 \ulnone {{\NeXTGraphic Pasted Graphic 1.tiff \width14820 \height3920 \appleattachmentpadding0 \appleembedtype0 \appleaqc
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+\
+Comes up with range between 0  and 1\
+\
+Use the sigmoid to convert linear to s-shaped line:\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 {{\NeXTGraphic Pasted Graphic 2.tiff \width24500 \height9600 \appleattachmentpadding0 \appleembedtype0 \appleaqc
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+\
+\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+}

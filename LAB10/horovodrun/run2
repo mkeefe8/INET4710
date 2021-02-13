@@ -1,0 +1,12 @@
+[1,0]<stdout>:Iter #0: 45.1 img/sec per GPU
+[1,0]<stdout>:Iter #1: 45.1 img/sec per GPU
+[1,0]<stdout>:Iter #2: 45.0 img/sec per GPU
+[1,0]<stdout>:Iter #3: 45.2 img/sec per GPU
+[1,0]<stdout>:Iter #4: 45.2 img/sec per GPU
+[1,0]<stdout>:Iter #5: 45.0 img/sec per GPU
+[1,0]<stdout>:Iter #6: 44.9 img/sec per GPU
+[1,0]<stdout>:Iter #7: 44.9 img/sec per GPU
+[1,0]<stdout>:Iter #8: 45.0 img/sec per GPU
+[1,0]<stdout>:Iter #9: 45.0 img/sec per GPU
+[1,0]<stdout>:Img/sec per GPU: 45.0 +-0.2
+[1,0]<stdout>:Total img/sec on 2 GPU(s): 90.1 +-0.4

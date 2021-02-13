@@ -1,0 +1,14 @@
+[1,0]<stdout>:Running warmup...
+[1,0]<stdout>:Running benchmark...
+[1,0]<stdout>:Iter #0: 50.1 img/sec per GPU
+[1,0]<stdout>:Iter #1: 50.0 img/sec per GPU
+[1,0]<stdout>:Iter #2: 49.9 img/sec per GPU
+[1,0]<stdout>:Iter #3: 49.8 img/sec per GPU
+[1,0]<stdout>:Iter #4: 49.7 img/sec per GPU
+[1,0]<stdout>:Iter #5: 49.7 img/sec per GPU
+[1,0]<stdout>:Iter #6: 49.6 img/sec per GPU
+[1,0]<stdout>:Iter #7: 49.6 img/sec per GPU
+[1,0]<stdout>:Iter #8: 49.5 img/sec per GPU
+[1,0]<stdout>:Iter #9: 49.4 img/sec per GPU
+[1,0]<stdout>:Img/sec per GPU: 49.7 +-0.4
+[1,0]<stdout>:Total img/sec on 1 GPU(s): 49.7 +-0.4

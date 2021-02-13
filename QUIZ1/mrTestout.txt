@@ -1,0 +1,32 @@
+"ringneck african"	2.7386127875258306
+"parrot grey"	26.24245923435258
+in steps
+in steps
+in steps
+in steps
+in steps
+in steps
+in steps
+in steps
+in steps
+in steps
+in steps
+in steps
+in steps
+in steps
+in steps
+in steps
+in steps
+in reducer, name:  parrot grey   values:  <generator object MRJob._combine_or_reduce_pairs.<locals>.<genexpr> at 0x10ed816d8>
+	N: 1 v:  465.0 S: 465.0
+	N: 2 v:  460.0 S: 925.0
+	N: 3 v:  407.0 S: 1332.0
+		result:  26.24245923435258
+in steps
+in steps
+in reducer, name:  ringneck african   values:  <generator object MRJob._combine_or_reduce_pairs.<locals>.<genexpr> at 0x10ed81750>
+	N: 1 v:  112.0 S: 112.0
+	N: 2 v:  109.0 S: 221.0
+	N: 3 v:  115.0 S: 336.0
+	N: 4 v:  108.0 S: 444.0
+		result:  2.7386127875258306
